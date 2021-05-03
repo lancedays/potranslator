@@ -1,0 +1,5986 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "# Prior"
+msgstr "# Prior"
+
+msgid "# Recipients"
+msgstr "Nombre de destinataires"
+
+msgid "#Students"
+msgstr "#Participants"
+
+msgid "&#149;&nbsp;&nbsp;&nbsp;At least one <b>To</b> recipient must be selected."
+msgstr "Vous devez sélectionner au moins un <b>au</b> destinataire."
+
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Verified {{LastVerified}}"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dernière vérification {{LastVerified}}"
+
+msgid "&nbsp;=&nbsp;"
+msgstr "&nbsp;=&nbsp;"
+
+msgid "&nbsp;=&nbsp;Changed"
+msgstr "&nbsp;=&nbsp;Modifié"
+
+msgid "&nbsp;Approved"
+msgstr "&nbsp;Approuvé"
+
+msgid "&nbsp;Group"
+msgstr "&nbsp;Groupe"
+
+msgid "&nbsp;I have verified the information on this screen."
+msgstr "&nbsp;J'ai vérifié les informations sur cet écran."
+
+msgid "&nbsp;Scheduled"
+msgstr "à la demande"
+
+msgid "&nbsp;Status"
+msgstr "&nbsp;Statut"
+
+msgid "&nbsp;and&nbsp;"
+msgstr "&nbsp;et&nbsp;"
+
+msgid "&nbsp;out&nbsp;of&nbsp;"
+msgstr "hors de"
+
+msgid ""
+"&nbsp;plus service charges of {{totalServiceCharge|number:'1.2-2'}} dollars for a transaction\r\n"
+"            total of {{transactionTotal|number:'1.2-2'}} dollars"
+msgstr ""
+"&nbsp;plus frais de service de {{totalServiceCharge|number:'1.2-2'}} dollars pour une transaction\n"
+"            total de {{transactionTotal|number:'1.2-2'}} dollars"
+
+msgid "&nbsp;plus service charges of {{totalServiceCharge|number:2}} dollars for a transaction total of {{transactionTotal|number:2}} dollars"
+msgstr "&nbsp;plus les frais de service de {{totalServiceCharge|number:2}} dollars pour un total de la transaction de dollars {{transactionTotal|number:2}}"
+
+msgid ""
+"&nbsp;{{futureBalance > 0 ? 'Credit' : (futureBalance < 0 ? 'Due' :\r\n"
+"                                        '' )}}"
+msgstr ""
+"&nbsp;{{futureBalance > 0 ? 'Crédit' : (futureBalance < 0 ? 'Dû' :\n"
+"                                        '' )}}"
+
+msgid ""
+"&nbsp;{{priorBalance > 0 ? 'Credit' : (priorBalance < 0 ? 'Due' :\r\n"
+"                                '' )}}"
+msgstr ""
+"&nbsp;{{priorBalance > 0 ? 'Crédit' : (priorBalance < 0 ? 'Dû' :\n"
+"                                '' )}}"
+
+msgid "(If mail should be sent to your Primary Residence, check the Same as Primary Residence box.)"
+msgstr "(Si le courrier doit être envoyé à votre résidence principale, vérifier la même chose que la zone de résidence principale.)"
+
+msgid "(If mail should be sent to your Primary Residence, the Preferred Mailing Address should be left blank.)"
+msgstr "(Si le courrier doit être envoyé à votre résidence principale, l'adresse postale préférée doit rester vide.)"
+
+msgid "(Not Available)"
+msgstr "(Indisponible)"
+
+msgid "(Reflects pending online payments)"
+msgstr "(Reflète les paiements en ligne en attente)"
+
+msgid "(Select)"
+msgstr "(Sélectionner)"
+
+msgid ""
+",\n"
+"        then your SAML route will be"
+msgstr ""
+",\n"
+"        alors votre route SAML sera"
+
+msgid "- {{householdParent.AyIdentifier}}"
+msgstr "- {{householdParent.AyIdentifier}}"
+
+msgid "."
+msgstr "."
+
+msgid ""
+".\n"
+"        For example: if your TylerSIS application is hosted at"
+msgstr ""
+".\n"
+"        Par exemple: si votre application TylerSIS est hébergée sur"
+
+msgid ""
+".\n"
+"        For reference, your login page will be"
+msgstr ""
+".\n"
+"        Pour référence, votre page de connexion sera"
+
+msgid ""
+".\n"
+"        In the previous example, your metadata route would be"
+msgstr ""
+".\n"
+"        Dans l'exemple précédent, votre itinéraire de métadonnées serait"
+
+msgid ""
+".\n"
+"        Right now, we do not have support for SP initiated SAML processes.\n"
+"        For this reason, you may not need to provide a certificate and/or a private key for your purposes."
+msgstr ""
+".\n"
+"        À l'heure actuelle, nous ne prenons pas en charge les processus SAML initiés par SP.\n"
+"        Pour cette raison, il n'est peut-être pas nécessaire de fournir un certificat et / ou une clé privée pour vos besoins."
+
+msgid "200 row maximum has been reached."
+msgstr "200 de ligne maximale a été atteinte."
+
+msgid "<b>Please make a note of this information</b> so you can use it from now on when you want to access the parent portal. If you need to exit this registration process for some reason before completion, log in using the information above and you will be able to complete the process."
+msgstr "<b>S'il vous plaît prendre note de cette information</b>. Vous pouvez donc l'utiliser à partir de maintenant, lorsque vous voulez accéder à l'portail parent. Si vous avez besoin de quitter ce processus d'inscription pour une raison quelconque avant la fin de l'opération, connectez-vous en utilisant les informations ci-dessus et vous serez en mesure de terminer le processus."
+
+msgid "= Changed"
+msgstr "= Modifié"
+
+msgid "= Current Grade (In-Progress, not yet finalized for Report Card)"
+msgstr "= Note actuelle (en cours, pas encore finalisée pour le bulletin)"
+
+msgid "A"
+msgstr "A"
+
+msgid "A La Carte"
+msgstr "A la carte"
+
+msgid "A fee of {{serviceTax |number:'1.2-2'}}% is assessed to cover processing costs."
+msgstr "Des frais de {{serviceTax |number:'1.2-2'}}% est évalué pour couvrir les coûts de traitement."
+
+msgid "A link for accessing the New Family Registration page was already emailed to this address."
+msgstr "Un lien permettant d’accéder à la page de la nouvelle famille d’inscription a été déjà envoyé à cette adresse."
+
+msgid ""
+"A maximum of 200 rows can be listed on the results screen. To help shorten the list, provide filtering\n"
+"        information in some or all of the fields below. All fields may be left blank if desired."
+msgstr ""
+"Un maximum de 200 lignes peut être répertorié sur l'écran des résultats. Pour aider à raccourcir la liste, fournissez un filtrage\n"
+"        informations dans tout ou partie des champs ci-dessous. Tous les champs peuvent être laissés vides si vous le souhaitez."
+
+msgid "A maximum of 200 rows can be listed on the results screen. To help shorten the list, provide filtering information in some or all of the fields below. All fields may be left blank if desired."
+msgstr "Un maximum de 200 lignes peut être cotée sur l&#39;écran des résultats. Pour aider à raccourcir la liste, fournir des informations filtrant dans certains ou tous les champs ci-dessous. Tous les champs peuvent être laissés en blanc, si désiré."
+
+msgid "A menu is not defined for the month."
+msgstr "Un menu n'est pas défini pour le mois."
+
+msgid "A record already exists with this email address."
+msgstr "Une fiche existe déjà avec cette adresse email."
+
+msgid "A sliding scale charge is assessed to cover processing costs."
+msgstr "Une accusation d'échelle mobile est évaluée pour couvrir les coûts de traitement."
+
+msgid "A student record already exists in our system for"
+msgstr "Un dossier d’étudiant existe déjà dans notre système pour"
+
+msgid "AM/PM"
+msgstr "MATIN APRÈS-MIDI"
+
+msgid "AY"
+msgstr "Ay"
+
+msgid "Absences"
+msgstr "Absences"
+
+msgid "Absent"
+msgstr "Absent"
+
+msgid "Academic History"
+msgstr "Histoire académique"
+
+msgid "Academic Year"
+msgstr "Année académique"
+
+msgid "Academic Year - {{ defaultYear.Description  }}"
+msgstr "Année académique - {{ defaultYear.Description  }}"
+
+msgid "Academic Year - {{ defaultYear.Description }}"
+msgstr "Année scolaire - {{defaultYear.Description}}"
+
+msgid "Academic Year - {{ householdParent.AyIdentifier }}"
+msgstr "Année scolaire - {{householdParent.AyIdentifier}}"
+
+msgid "Academic Year - {{ onlineRegistrationUserPacket.YearDescription }}"
+msgstr "Année scolaire {{onlineRegistrationUserPacket.YearDescription}}"
+
+msgid "Academic Year - {{ yearDescription }}"
+msgstr "Année scolaire - {{yearDescription}}"
+
+msgid "Academic Year:"
+msgstr "Année académique:"
+
+msgid "Academic<br>Year"
+msgstr "année <br> scolaire"
+
+msgid "Accept"
+msgstr "Acceptez"
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Account / New Deposits"
+msgstr "Compte / nouveaux dépôts"
+
+msgid "Account Balance"
+msgstr "Solde du compte"
+
+msgid "Account Description"
+msgstr "Description du compte"
+
+msgid "Account inactive for {{ countdown - 1 }} minutes..."
+msgstr "Compte inactif pour {{compte à rebours - 1}} minutes..."
+
+msgid "Accounts with a balance due."
+msgstr "Comptes avec un solde dû."
+
+msgid "Acetaminophen"
+msgstr "Paracétamol"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Action Comments"
+msgstr "Action commentaires"
+
+msgid "Action Date"
+msgstr "date d'une action"
+
+msgid "Actions"
+msgstr "Mesures"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Activities and Teams"
+msgstr "Activités et équipes"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add Alternate Request"
+msgstr "Ajouter une demande alternative"
+
+msgid "Add Announcement"
+msgstr "Ajouter une annonce"
+
+msgid "Add Attachment"
+msgstr "Attacher le contenu"
+
+msgid "Add Behavior Referral"
+msgstr "Ajouter une référence de comportement"
+
+msgid "Add Contact"
+msgstr "Ajouter un contact"
+
+msgid "Add Day"
+msgstr "Ajouter un jour"
+
+msgid "Add Document"
+msgstr "Ajouter un document"
+
+msgid "Add Emergency Contact"
+msgstr "Ajouter un Contact d'urgence"
+
+msgid "Add Entry"
+msgstr "Ajouter une entrée"
+
+msgid "Add Folder"
+msgstr "Ajouter un contact"
+
+msgid "Add Household"
+msgstr "Ajouter ménage"
+
+msgid "Add Link"
+msgstr "Ajouter un lien"
+
+msgid ""
+"Add New\r\n"
+"                Student"
+msgstr ""
+"Ajouter un nouveau\n"
+"                Étudiant"
+
+msgid "Add New Condition"
+msgstr "Ajouter une nouvelle condition"
+
+msgid "Add New Doctor"
+msgstr "Ajouter nouveau massothérapeute"
+
+msgid "Add New Restriction"
+msgstr "Ajouter Nouvelle Restriction"
+
+msgid "Add New Student"
+msgstr "Ajouter étudiant"
+
+msgid "Add Note"
+msgstr "Ajouter une note"
+
+msgid "Add Parent 2"
+msgstr "Ajouter Parent 2"
+
+msgid "Add Period"
+msgstr "Ajouter une période"
+
+msgid "Add Period Above"
+msgstr "Ajouter la période ci-dessus"
+
+msgid "Add Period Below"
+msgstr "Ajouter une période en dessous"
+
+msgid "Add Period Segment"
+msgstr "Ajouter un segment de période"
+
+msgid "Add Report Folder"
+msgstr "Grades Rapport de cartes"
+
+msgid "Add Requests"
+msgstr "Ajouter Demandes"
+
+msgid "Add Requests:"
+msgstr "Ajouter Demandes"
+
+msgid "Add Student"
+msgstr "Ajouter étudiant"
+
+msgid "Add Topic"
+msgstr "Ajouter un sujet"
+
+msgid "Add row"
+msgstr "Ajouter une rangée"
+
+msgid "Added"
+msgstr "Ajouté(e)"
+
+msgid "Added By"
+msgstr "Ajouté par"
+
+msgid "Added On"
+msgstr "Ajouté le"
+
+msgid "Added by"
+msgstr "Ajouté par"
+
+msgid "Addition of this student is not permitted."
+msgstr "L'ajout de cet étudiant n'est pas autorisé."
+
+msgid "Additional Details"
+msgstr "Infos complémentaires"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address Change"
+msgstr "Changement d'adresse"
+
+msgid "Address Information"
+msgstr "Information d'adresse"
+
+msgid "Address Line 1"
+msgstr "Adresse Ligne 1"
+
+msgid "Address Line 1 is required."
+msgstr "Adresse Ligne 1 est nécessaire."
+
+msgid "Address Line 2"
+msgstr "Adresse Ligne 2"
+
+msgid "Address Line 3"
+msgstr "Adresse ligne 3"
+
+msgid "Address Type"
+msgstr "Type d'adresse"
+
+msgid "Addresses"
+msgstr "Adresses"
+
+msgid "Addresses (System)"
+msgstr "Adresses (système)"
+
+msgid "Addresses for {{onlineRegistrationUserPacket.UserName}}"
+msgstr "Adresses pour {{onlineRegistrationUserPacket.UserName}}"
+
+msgid "Addresses for {{parentPortalDataUpdateUserPacket.UserName}}"
+msgstr "Adresses pour {{parentPortalDataUpdateUserPacket.UserName}}"
+
+msgid "Administrative Comments"
+msgstr "Commentaires administratifs"
+
+msgid "After Hours"
+msgstr "Après des heures"
+
+msgid "After Hours Emergency"
+msgstr "After Hours urgence"
+
+msgid "After Hours Emergency Text"
+msgstr "Après texte Heures d&#39;urgence"
+
+msgid "After you have made the corrections, use the \"Submit Forms\" button in the lower right corner of the screen to resubmit the forms."
+msgstr "Après avoir effectué les corrections, utilisez le \"Soumettre les formulaires\" situé dans le coin inférieur droit de l'écran pour soumettre le formulaire."
+
+msgid "Age"
+msgstr "Âge"
+
+msgid "Alert"
+msgstr "Alerte"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "All Accounts"
+msgstr "Tous les comptes"
+
+msgid "All Advisors"
+msgstr "Tous les conseillers"
+
+msgid "All Announcements"
+msgstr "Tous les communiqués"
+
+msgid "All Classes"
+msgstr "Toutes les classes"
+
+msgid "All Counselors"
+msgstr "Tous les conseillers"
+
+msgid "All Disctrict Administrators"
+msgstr "Tous les administrateurs de district"
+
+msgid "All District Administrators"
+msgstr "Tous les administrateurs de district"
+
+msgid "All Principals"
+msgstr "Tous les directeurs"
+
+msgid "All Site Administrators"
+msgstr "Tous les administrateurs de site"
+
+msgid "All assertions must be signed"
+msgstr "Toutes les assertions doivent être signées"
+
+msgid "All data for this student will be deleted."
+msgstr "Toutes les données pour cet étudiant seront supprimées."
+
+msgid "All fields highlighted in orange will be restored to their initial values"
+msgstr "Tous les champs en surbrillance en orange seront restaurés à leurs valeurs initiales"
+
+msgid "All fields will be restored to their initial values"
+msgstr "Tous les champs seront restaurés à leurs valeurs initiales"
+
+msgid "All forms are marked completed but have not yet been submitted to the schools."
+msgstr "Toutes les formes sont marqués remplis mais n'ont pas encore été soumises aux écoles."
+
+msgid "All of the forms have been marked complete but changes can still be made if desired."
+msgstr "Tous les formulaires ont été marquées comme terminées, mais des modifications peuvent encore être apportées si désiré."
+
+msgid "Allow District to Administer?"
+msgstr "Laisser district à gérer?"
+
+msgid "Also list"
+msgstr "Aussi la liste"
+
+msgid "Alternate {{$index + 1}}"
+msgstr "Alterner {{$index + 1}}"
+
+msgid "Alternate {{i + 1}}"
+msgstr "Alterner {{i + 1}}"
+
+msgid "An email has been sent to {{registerNewFamily.emailAddress}}. Please use the link in the email to proceed to the next step."
+msgstr "Un courriel a été envoyé à {{registerNewFamily.emailAddress}}. S'il vous plait utilisez le lien dans l'e-mail pour passer à l'étape suivante."
+
+msgid "An email with a link has been sent to {{registerNewFamily.emailAddress}}."
+msgstr "Un email avec un lien a été envoyé à {{registerNewFamily.emailAddress}}."
+
+msgid "And"
+msgstr "Et"
+
+msgid "Announcement"
+msgstr "Annonce"
+
+msgid "Announcements"
+msgstr "Annonces"
+
+msgid "Announcements For"
+msgstr "Annonces pour"
+
+msgid "Announcements for"
+msgstr "Annonces pour"
+
+msgid "Any Other Medications Student is Taking"
+msgstr "Tout autre médicament que prend l'étudiant"
+
+msgid "Any Other Medications Student is taking"
+msgstr "Prend n'importe quel autre élève de médicaments"
+
+msgid "Any Other Relevant Conditions or Disabilities"
+msgstr "Toute autre condition pertinente ou une déficience"
+
+msgid "Appeal Status"
+msgstr "Statut de l'appel"
+
+msgid "Apply to All Groups"
+msgstr "Appliquer à tous les groupes"
+
+msgid "Approved"
+msgstr "Approuvé"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "Apt/Lot"
+msgstr "Apt / Lot"
+
+msgid "Archive in Student Digital Content"
+msgstr "Archive dans Student Digital Content"
+
+msgid "Archive in Student Portfolio"
+msgstr "Archive dans le portefeuille de l'étudiant"
+
+msgid "Archive in Tyler Content Manager"
+msgstr "Archiver dans Tyler Content Manager"
+
+msgid "Are you allowed to pick up the student(s)?"
+msgstr "Êtes-vous autorisé à prendre le (s) élève (s)?"
+
+msgid "Are you allowed to pick up the students?"
+msgstr "Êtes-vous autorisé à ramasser les étudiants ?"
+
+msgid "Are you an emergency contact for the student(s)?"
+msgstr "Êtes-vous un contact d'urgence pour le ou les étudiants?"
+
+msgid "Are you an emergency contact for the students?"
+msgstr "Vous êtes un contact d’urgence pour les étudiants ?"
+
+msgid "Are you sure you want to delete"
+msgstr "Etes-vous sûr que vous voulez supprimer"
+
+msgid "Are you sure you want to delete record?"
+msgstr "Êtes-vous sûr de vouloir effectuer cette suppression ?"
+
+msgid "Are you sure you want to delete this Announcement?"
+msgstr "Etes-vous sûr de vouloir supprimer cette annonce?"
+
+msgid "Are you sure you want to delete this Attachment?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette pièce jointe?"
+
+msgid "Are you sure you want to delete this Mass Email Log entry?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette entrée du journal de masse?"
+
+msgid "Are you sure you want to delete this Student Note?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette note de l'étudiant?"
+
+msgid "Are you sure you want to delete this attachment?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette pièce jointe?"
+
+msgid "Are you sure you want to delete this portfolio document?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce document de portefeuille?"
+
+msgid "Are you sure you want to delete this request?"
+msgstr "Etes-vous sûr de vouloir supprimer ceci?"
+
+msgid "Are you sure you want to delete {{EmergencyContactDetail.FirstNameNew}} {{EmergencyContactDetail.LastNameNew}}?"
+msgstr "Etes-vous sûr que vous voulez supprimer {{EmergencyContactDetail.FirstNameNew}} {{EmergencyContactDetail.LastNameNew}}?"
+
+msgid "Are you sure you want to delete {{removeContact.parentName}}?"
+msgstr "Êtes-vous sûr de que vouloir supprimer {{removeContact.parentName}} ?"
+
+msgid "Are you sure you want to remove"
+msgstr "Êtes-vous sûr de vouloir désinstaller"
+
+msgid "Are you sure you want to remove {{removeContact.studentName}} from {{removeContact.parentName}}?"
+msgstr "Êtes-vous sûr de que vouloir supprimer {{removeContact.studentName}} de {{removeContact.parentName}} ?"
+
+msgid "Are you the guardian of the student(s)?"
+msgstr "Êtes-vous le tuteur de l'étudiant?"
+
+msgid "Are you the guardian of the students?"
+msgstr "Vous êtes le gardien des étudiants ?"
+
+msgid "As a victim"
+msgstr "En tant que victime"
+
+msgid "As a witness"
+msgstr "Comme témoin"
+
+msgid "As an offender"
+msgstr "Comme un délinquant"
+
+msgid "Assessments"
+msgstr "Évaluations"
+
+msgid "Assign Requirements to Schools"
+msgstr "Attribuer des exigences aux écoles"
+
+msgid "Assign to Admin"
+msgstr "Attribuer à l'administrateur"
+
+msgid "Assigned"
+msgstr "Attribué"
+
+msgid ""
+"Assigned\n"
+"            Term"
+msgstr ""
+"Attribué\n"
+"            Terme"
+
+msgid ""
+"Assigned\n"
+"      Term"
+msgstr ""
+"Attribué\n"
+"      Terme"
+
+msgid "Assigned Date"
+msgstr "Date attribuée"
+
+msgid "Assigned Meeting Patterns"
+msgstr "Modèles de réunion assignés"
+
+msgid "Assigned Schools"
+msgstr "Écoles assignées"
+
+msgid "Assigned<br>Term"
+msgstr "Assigné <br> Terme"
+
+msgid "Assignment"
+msgstr "Tâche"
+
+msgid "Assignment Type (A-Z)"
+msgstr "Type d'assignation (AZ)"
+
+msgid "Assignment Type (Z-A)"
+msgstr "Type d'affectation (Z-A)"
+
+msgid "Assignments"
+msgstr "Devoirs/exercices"
+
+msgid "Assignments Due"
+msgstr "Cessions dues"
+
+msgid "Assignments Due {{eventDetails.Date | date:'MM/dd/yy'}}"
+msgstr "Cessions dues {{eventDetails.Date | date:'MM/dd/yy'}}"
+
+msgid "Assignments Today"
+msgstr "Affectations aujourd'hui"
+
+msgid "Associate"
+msgstr "Associer"
+
+msgid "Associate Contact with a Student"
+msgstr "Contactez associé avec une élève"
+
+msgid "Associate {{associateContact.parentName}} with"
+msgstr "Associer le {{associateContact.parentName}}"
+
+msgid "Att Code"
+msgstr "Code Att"
+
+msgid "Attached"
+msgstr "Attaché"
+
+msgid "Attached By"
+msgstr "Attaché par"
+
+msgid "Attachments"
+msgstr "Fichiers joints"
+
+msgid "Attempted"
+msgstr "Tenté."
+
+msgid "Attempted Credits"
+msgstr "Crédits de tentative"
+
+msgid "Attempted<br>Credits"
+msgstr "A tenté<br>Crédits"
+
+msgid "Attendance"
+msgstr "﻿Présence"
+
+msgid "Attendance Code Legend"
+msgstr "Légende de Code de présence"
+
+msgid "Attendance Notification is not activated for the school(s) your student(s) attend."
+msgstr "Présence de notification est pas activée pour l'école (s) de votre étudiant (s) assister."
+
+msgid "Attendance Phone Notifications"
+msgstr "Notifications Participation téléphoniques"
+
+msgid "Attendance Status"
+msgstr "Statut de présence"
+
+msgid "Attendance Today"
+msgstr "Aujourd'hui"
+
+msgid "Attended"
+msgstr "Assisté"
+
+msgid "August"
+msgstr "Août"
+
+msgid "Auth Requests Signed"
+msgstr "Demandes d'authentification signées"
+
+msgid "Authn Requests under construction"
+msgstr "Demandes en cours de construction"
+
+msgid "Auto-Run"
+msgstr "Exécution automatique"
+
+msgid "Automatic Calling Preferences"
+msgstr "Calling Préférences automatiques"
+
+msgid "Available Period"
+msgstr "Période disponible"
+
+msgid "Available To"
+msgstr "Disponible pour"
+
+msgid "Average Score"
+msgstr "Score moyen"
+
+msgid "Award"
+msgstr "Diplôme"
+
+msgid "Awards"
+msgstr "Diplômes"
+
+msgid "BCC"
+msgstr "BCC"
+
+msgid "BMI"
+msgstr "IMC"
+
+msgid "BMI Percentile"
+msgstr "IMC percentile"
+
+msgid "BY COURSE"
+msgstr "PAR COURS"
+
+msgid "Back"
+msgstr "Précédent"
+
+msgid "Balance"
+msgstr "Solde"
+
+msgid "Balance as of Academic Year {{defaultYear.Description}}"
+msgstr "Balance à partir de l'année scolaire {{defaultYear.Description}}"
+
+msgid "Balance from Future Year(s)"
+msgstr "Solde des années futures"
+
+msgid "Balance from Prior Year(s)"
+msgstr "Solde de l'exercice précédent (s)"
+
+msgid "Behavior"
+msgstr "Comportement"
+
+msgid "Bell Schedule"
+msgstr "Horaire de Bell"
+
+msgid "Bell Schedules"
+msgstr "Horaires de Bell"
+
+msgid "Bell Time"
+msgstr "Heure de cloche"
+
+msgid "Between"
+msgstr "Entre"
+
+msgid "Bill Date"
+msgstr "Date de facturation"
+
+msgid "Birth Date"
+msgstr "Date de naissance"
+
+msgid "Birth Date is required."
+msgstr "Date de naissance est nécessaire."
+
+msgid "Break"
+msgstr "Pause"
+
+msgid "Breakfast"
+msgstr "Petit déjeuner"
+
+msgid "Bus"
+msgstr "Autobus"
+
+msgid "By Course"
+msgstr "Par cours"
+
+msgid "By Date (Entire Year)"
+msgstr "Par date (année entière)"
+
+msgid "By Student Schedule (All)"
+msgstr "Par horaire d'étudiant (tout)"
+
+msgid "By Student Schedule (This Term)"
+msgstr "Par horaire d'étudiant (ce terme)"
+
+msgid "By Student Schedule (Today Only)"
+msgstr "Par horaire d'étudiant (aujourd'hui seulement)"
+
+msgid "CC"
+msgstr "Cc"
+
+msgid "CLEAR ALL FILTERS"
+msgstr "EFFACER TOUS LES FILTRES"
+
+msgid "CLOSE"
+msgstr "FERMER"
+
+msgid "CRType"
+msgstr "CRType"
+
+msgid "Calculated from Grade Book(Not finalized for Report Cards)"
+msgstr "Calculé à partir de Grade Book (Non finalisé pour Report Cards)"
+
+msgid "Calendar"
+msgstr "Calendrier"
+
+msgid "Calling Order"
+msgstr "Appel Ordre"
+
+msgid "Calling Sequence"
+msgstr "Séquence d'appel"
+
+msgid "Calling Sequence is required."
+msgstr "Séquence d'appel est requise."
+
+msgid "Can Pick Up"
+msgstr "Peut Pick Up"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Category-ID"
+msgstr "ID de catégorie"
+
+msgid "Cell Phone"
+msgstr "Mobile"
+
+msgid "Certificate"
+msgstr "Certificat"
+
+msgid "Change Associated Class"
+msgstr "Changer la classe associée"
+
+msgid "Change Email"
+msgstr "Modifier l’email"
+
+msgid "Change Email Address"
+msgstr "Modifier votre adresse électronique"
+
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+msgid "Change Recipients"
+msgstr "Modifier destinataires"
+
+msgid "Changed"
+msgstr "Modifié"
+
+msgid "Changes have been entered but not saved."
+msgstr "Des changements ont été entrés mais ne pas enregistrés."
+
+msgid "Changes have been entered on this form but not saved."
+msgstr "Des changements ont été saisies sur ce formulaire mais ne pas enregistrés."
+
+msgid "Changes have been made to the query"
+msgstr "Des modifications ont été apportées à la requête"
+
+msgid "Charge"
+msgstr "Charge"
+
+msgid "Charges"
+msgstr "Des charges"
+
+msgid "Charges and Deposits"
+msgstr "Les frais et dépôts"
+
+msgid "Check Date"
+msgstr "Vérifier la date"
+
+msgid "Check Number"
+msgstr "Numéro de vérification"
+
+msgid "Choose which tiles are displayed on this page by using Select Tiles icon."
+msgstr "Choisir les carreaux est affichées sur cette page en utilisant l'icône sélectionner les tuiles."
+
+msgid "CitizenShip"
+msgstr "Nationalité :"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "City is required."
+msgstr "La ville est requise."
+
+msgid "Class"
+msgstr "Classe"
+
+msgid ""
+"Class\r\n"
+"                                                        Information"
+msgstr ""
+"Classe\r\n"
+"                                                        Information"
+
+msgid "Class ({{classAnnouncements.length}})"
+msgstr "Classe ({{classAnnouncements.length}})"
+
+msgid "Class ({{classroomAnnouncements.length}})"
+msgstr "Classe ({{classroomAnnouncements.length}})"
+
+msgid "Class Announcements"
+msgstr "Annonces"
+
+msgid "Class Information"
+msgstr "Informations de classe"
+
+msgid "Class Name"
+msgstr "Nom du cours"
+
+msgid "Class Profile"
+msgstr "Catégorie et profil"
+
+msgid "Class Rank:"
+msgstr "Classe Rang:"
+
+msgid "Class Students/Seats"
+msgstr "Etudiants / Sièges"
+
+msgid "Class Type"
+msgstr "Type de classe"
+
+msgid "Classroom"
+msgstr "salle de cours"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Clear Course Filter"
+msgstr "Effacer le filtre de cours"
+
+msgid "Clear Selections"
+msgstr "Effacer les sélections"
+
+msgid "Clear Student Filter"
+msgstr "Effacer le filtre de l'étudiant"
+
+msgid "Click Cancel to return to the form and enter information for a new student."
+msgstr "Cliquez sur Annuler pour revenir à l’écran et entrer des données pour un nouvel étudiant."
+
+msgid "Click Cancel to return to the form without undoing anything."
+msgstr "Cliquez sur Annuler pour revenir à la forme sans détacher quoi que ce soit."
+
+msgid "Click Cancel to return to the page."
+msgstr "Cliquez sur Annuler pour revenir à la page."
+
+msgid "Click OK if you have decided not to add a new student."
+msgstr "Cliquez sur OK si vous avez décidé de ne pas ajouter un nouvel étudiant."
+
+msgid "Click OK to continue and lose the unsaved changes."
+msgstr "Cliquez sur OK pour continuer et perdre les modifications non enregistrées."
+
+msgid "Click OK to continue and undo all changes on this form."
+msgstr "Cliquez sur OK pour continuer et annuler toutes les modifications sur ce formulaire."
+
+msgid "Click the Edit link next to the first form to begin."
+msgstr "Cliquez sur le lien modifier à côté de la première forme d’abord."
+
+msgid "Click “Edit” on the first form to begin the Registration process"
+msgstr "Cliquez sur « Edit » sur le premier formulaire pour commencer le processus d'inscription"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Close Portal"
+msgstr "Fermer le portail"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Code Legend"
+msgstr "Légende de code"
+
+msgid "CodeDescription"
+msgstr "CodeDescription"
+
+msgid "Codes"
+msgstr "Codes"
+
+msgid "Collapse All"
+msgstr "Tout réduire"
+
+msgid "Color Legend"
+msgstr "Légende des couleurs"
+
+msgid "Column Break"
+msgstr "Saut de colonne"
+
+msgid "Column Name"
+msgstr "Nom de colonne"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Comment1"
+msgstr "Commentaire1"
+
+msgid "Comment2"
+msgstr "Commentaire2"
+
+msgid "Comment:"
+msgstr "Commentaire:"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Comments and Behavior Marks"
+msgstr "Commentaires et notes de comportement"
+
+msgid "Common Medications"
+msgstr "Médicament"
+
+msgid "Communication Log Entries"
+msgstr "Entrées du journal de communication"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Compare"
+msgstr "Comparer"
+
+msgid "Complete"
+msgstr "Terminé"
+
+msgid "Complete all forms, then they can be submitted to the schools."
+msgstr "Remplir tous les formulaires, puis elles peuvent être envoyées dans les écoles."
+
+msgid "Condition"
+msgstr "Condition"
+
+msgid "Condition is required."
+msgstr "État est nécessaire."
+
+msgid "Confirm Delete"
+msgstr "Confirmer suppression"
+
+msgid "Confirm Deletion"
+msgstr "Confirmer la suppression"
+
+msgid "Conflicts"
+msgstr "Conflits"
+
+msgid "Congratulations"
+msgstr "Félicitations"
+
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+msgid "Contact Person"
+msgstr "Contact"
+
+msgid "Contact/student associations will be reset"
+msgstr "Associations Contact / étudiants seront réinitialisés"
+
+msgid ""
+"Contacts will be called in the order in which they are listed. To change the order, select a row and drag\r\n"
+"\t\t\t\t\tit up or down."
+msgstr ""
+"Les contacts seront appelés dans l'ordre dans lequel ils sont listés. Pour changer l'ordre, sélectionnez une ligne et faites glisser\r\n"
+"ça monte ou descend."
+
+msgid ""
+"Contacts will be called in the order in which they are listed. To change the order, select a row and drag\r\n"
+"        it up or down."
+msgstr ""
+"Les contacts seront appelés dans l'ordre dans lequel ils sont listés. Pour changer l'ordre, sélectionnez une ligne et faites glisser\r\n"
+"        ça monte ou descend."
+
+msgid "Contains"
+msgstr "Contient"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Content Title"
+msgstr "Titre du contenu"
+
+msgid "Continue to Assignments"
+msgstr "Continuer à missions"
+
+msgid "Continue without Saving"
+msgstr "Continuer sans enregistrer"
+
+msgid "Copy"
+msgstr "Copie"
+
+msgid "Copy Announcement"
+msgstr "Annonce de copie"
+
+msgid "Copy Bell Schedule"
+msgstr "Copier l'horaire de Bell"
+
+msgid "Copy Day"
+msgstr "Jour de la copie"
+
+msgid "Copy Existing"
+msgstr "Copier existant"
+
+msgid "Count"
+msgstr "Compter"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "County"
+msgstr "Comté"
+
+msgid "County is required."
+msgstr "Comté est nécessaire."
+
+msgid "Course"
+msgstr "Cours"
+
+msgid ""
+"Course\n"
+"                Name"
+msgstr ""
+"Cours\n"
+"                prénom"
+
+msgid ""
+"Course\r\n"
+"                                                        Description"
+msgstr ""
+"Cours\r\n"
+"                                                        La description"
+
+msgid "Course #"
+msgstr "Cours #"
+
+msgid "Course / Teacher Info"
+msgstr "Cours / Info de l'enseignant"
+
+msgid "Course Complete"
+msgstr "Cours complet"
+
+msgid "Course Complete:"
+msgstr "Activité complétée"
+
+msgid "Course Description"
+msgstr "Description du cours"
+
+msgid "Course Descriptions"
+msgstr "Description des cours"
+
+msgid "Course Filters"
+msgstr "Filtres de cours"
+
+msgid "Course Identifier:"
+msgstr "Identifiant du cours:"
+
+msgid "Course Name"
+msgstr "titre de cours"
+
+msgid "Course Name:"
+msgstr "Nom du cours:"
+
+msgid "Course Number"
+msgstr "Numéro du cours"
+
+msgid "Course Profile"
+msgstr "Profil de cours"
+
+msgid "Course Request"
+msgstr "Demande de cours"
+
+msgid "Course Request Conflicts"
+msgstr "Conflits de demande de cours"
+
+msgid "Course Request Year - {{ getCourseRequestYear() }}"
+msgstr "Cours de l’année demande - {{getCourseRequestYear()}}"
+
+msgid "Course Requests"
+msgstr "Demandes de cours"
+
+msgid "Course Requests may now be entered"
+msgstr "Les demandes de cours peuvent maintenant être entrées"
+
+msgid "Course Requirement"
+msgstr "Exigences du cours"
+
+msgid "Course Schedule"
+msgstr "Calendrier des cours"
+
+msgid "Course Section"
+msgstr "Section du cours"
+
+msgid "Course Title"
+msgstr "Titre de cours"
+
+msgid "Course-Section"
+msgstr "Cours-Section"
+
+msgid "Course-Section:"
+msgstr "Cours-Section"
+
+msgid "Course/Teacher Info"
+msgstr "Cours/Informations sur l'enseignant"
+
+msgid "Courses To Add"
+msgstr "Cours à ajouter"
+
+msgid "Courses To Remove"
+msgstr "Cours à supprimer"
+
+msgid "Courses scheduled for this requirement"
+msgstr "Cours prévus pour cette exigence"
+
+msgid "Create New"
+msgstr "Créer un nouveau"
+
+msgid "Create a Communication Log Entry for this email"
+msgstr "Créer une entrée de journal de communication pour cet email"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Created By"
+msgstr "Créé par"
+
+msgid "Created Date"
+msgstr "Date de création"
+
+msgid "Credit"
+msgstr "Crédits"
+
+msgid "Credit Code"
+msgstr "Code de crédit"
+
+msgid "Credit Code(s):"
+msgstr "Code (s) de crédit:"
+
+msgid "Credit Codes"
+msgstr "Codes de crédit"
+
+msgid "Credit&nbsp;"
+msgstr "Crédit&nbsp;"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Credits Attempted/Earned"
+msgstr "Crédits tenté / gagnés"
+
+msgid "Current"
+msgstr "Actuel"
+
+msgid "Current Academics"
+msgstr "Universitaires actuels"
+
+msgid "Current Att Code"
+msgstr "Code Att actuel"
+
+msgid "Current Condition"
+msgstr "Situation actuelle"
+
+msgid "Current Email"
+msgstr "Mon email actuel"
+
+msgid "Current Grades"
+msgstr "Grades actuels"
+
+msgid "Current Location"
+msgstr "Position actuelle"
+
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+msgid "Current Password has expired"
+msgstr "Le mot de passe actuel a expiré"
+
+msgid "Current password is incorrect"
+msgstr "Votre mot de passe actuel est incorrect."
+
+msgid "Current<br>Credits"
+msgstr "Courant<br>Crédits"
+
+msgid "Currently students can be added only in grades {{orActivatedForGradeLevels}}"
+msgstr "Actuellement, les étudiants ne peuvent être ajoutés qu'aux notes {{orActivatedForGradeLevels}}."
+
+msgid "Currently students can be added only in grades {{orYearGradeLevelsV9}}"
+msgstr "Actuellement, les étudiants ne peuvent être ajoutés qu'aux notes {{orYearGradeLevelsV9}}."
+
+msgid "Currently students can be added only in grades {{parentPortalDataUpdateStudent.ORActivatedForGradeLevels}}"
+msgstr "Actuellement les étudiants peuvent être ajoutés uniquement dans les classes {{parentPortalDataUpdateStudent.ORActivatedForGradeLevels}}"
+
+msgid "Curriculum"
+msgstr "Programme"
+
+msgid "Custody Issue"
+msgstr "Garde émission"
+
+msgid "DAY"
+msgstr "JOURNÉE"
+
+msgid "DOB"
+msgstr "DOB"
+
+msgid "Daily"
+msgstr "Quotidien(ne)"
+
+msgid "Daily Student Activity"
+msgstr "Activité quotidienne des étudiants"
+
+msgid "Data"
+msgstr "Les données"
+
+msgid "Data Definitions for Student Note Categories have not been defined."
+msgstr "Les définitions de données pour les catégories de notes d'élève n'ont pas été définies."
+
+msgid "Data failed to save"
+msgstr "Échec de la sauvegarde des données"
+
+msgid "Data is being filtered."
+msgstr "Données sont filtrées."
+
+msgid "Data successfully saved"
+msgstr "Données sauvegardées avec succès."
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Date (Newest First)"
+msgstr "Date (le plus récent en premier)"
+
+msgid "Date (Oldest First)"
+msgstr "Date (le plus ancien en premier)"
+
+msgid "Date/Time"
+msgstr "Date/Heure"
+
+msgid "Day Types"
+msgstr "Types de jour"
+
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Deactivate"
+msgstr "Désactiver"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "Declaration Date"
+msgstr "Date de la déclaration"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Default Teachers"
+msgstr "Enseignants par défaut"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Delete Announcement"
+msgstr "Supprimer une annonce"
+
+msgid "Delete Attachment"
+msgstr "Supprimer la pièce jointe"
+
+msgid "Delete Contact"
+msgstr "Supprimer le contact"
+
+msgid "Delete Day"
+msgstr "Supprimer le jour"
+
+msgid "Delete Folder?"
+msgstr "Supprimer un dossier"
+
+msgid "Delete Parent 2"
+msgstr "Supprimer le Parent 2"
+
+msgid "Delete Period"
+msgstr "Supprimer la période"
+
+msgid "Delete Record"
+msgstr "Supprimer le contact"
+
+msgid "Delete Report Folder"
+msgstr "Supprimer le dossier de rapport"
+
+msgid "Delete Report Folder?"
+msgstr "Supprimer le dossier de rapport?"
+
+msgid "Delete Request"
+msgstr "Supprimer la requête"
+
+msgid "Delete Segment"
+msgstr "Supprimer le segment"
+
+msgid "Delete Snapshot?"
+msgstr "Supprimer l’instantané ?"
+
+msgid "Delete Student"
+msgstr "Supprimer un étudiant"
+
+msgid "Delete Student List"
+msgstr "Supprimer la liste des étudiants"
+
+msgid "Delete Student?"
+msgstr "Supprimer un étudiant"
+
+msgid "Delete Topic"
+msgstr "Supprimer le sujet"
+
+msgid "Delete this Household"
+msgstr "Supprimer ce ménage"
+
+msgid "Deleted"
+msgstr "Supprimé"
+
+msgid "Deleted contacts will be restored"
+msgstr "Contacts supprimés seront restaurés"
+
+msgid "Deleted information will be restored"
+msgstr "Informations supprimé sera restauré"
+
+msgid "Department"
+msgstr "Service"
+
+msgid "Deposit"
+msgstr "Dépôt"
+
+msgid "Deposit Amount"
+msgstr "Montant Acompte"
+
+msgid "Deposit Amount cannot exceed {{onlinePaymentConfiguration.MaximumDepositAmount}} dollars"
+msgstr "Montant du dépôt ne doit pas dépasser de dollars {{onlinePaymentConfiguration.MaximumDepositAmount}}"
+
+msgid "Deposit&nbsp;&nbsp;"
+msgstr "Dépôt"
+
+msgid "Deposits"
+msgstr "Dépôts"
+
+msgid "Dept"
+msgstr "Dette"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Description/Comments"
+msgstr "Descriptif / Commentaires"
+
+msgid "Description/Reason"
+msgstr "Description / Raison"
+
+msgid "Deselect All"
+msgstr "Déselectionner"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Detailed"
+msgstr "Détaillé"
+
+msgid "Detailed views show more information, so they take up more space. The height of these cards will adjust based on the content to be displayed."
+msgstr "Les vues détaillées affichent plus d'informations et occupent donc plus d'espace. La hauteur de ces cartes sera ajustée en fonction du contenu à afficher."
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Device"
+msgstr "Appareil"
+
+msgid "Did you forget anyone?"
+msgstr "Avez-vous oublié quelqu'un?"
+
+msgid "Dietary Item"
+msgstr "Dietary article"
+
+msgid "Dietary Item is required."
+msgstr "Dietary article est nécessaire."
+
+msgid "Dietary Restrictions"
+msgstr "Restrictions alimentaires"
+
+msgid "Direction"
+msgstr "Direction"
+
+msgid "Disciplinarian"
+msgstr "Disciplinaire"
+
+msgid "Discipline"
+msgstr "Discipline"
+
+msgid ""
+"Discipline events in the last seven\r\n"
+"                  days"
+msgstr ""
+"Discipline des sept dernières années\n"
+"                  journées"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "Display For"
+msgstr "Afficher pour"
+
+msgid "Display dropped classes"
+msgstr "Affichage chuté cours"
+
+msgid "Display for Parents"
+msgstr "Affichage pour les parents"
+
+msgid "Display for Students"
+msgstr "Affichage pour les étudiants"
+
+msgid "District ({{districtAnnouncements.length}})"
+msgstr "District ({{districtAnnouncements.length}})"
+
+msgid "District Announcements"
+msgstr "Annonces de quartier"
+
+msgid "District Defined Links"
+msgstr "Liens définis par le district"
+
+msgid "District Message"
+msgstr "Message de quartier"
+
+msgid "Do Not Include"
+msgstr "N'incluez pas"
+
+msgid "Do not allow to leave with student"
+msgstr "Ne pas laisser partir avec étudiant"
+
+msgid "Do the student(s) live with you?"
+msgstr "Les étudiants vivent-ils avec vous?"
+
+msgid "Do the students live with you?"
+msgstr "Les étudiants vivent avec vous ?"
+
+msgid "Do you have custody of the student(s)?"
+msgstr "Avez-vous la garde de l'étudiant (e)?"
+
+msgid "Do you have custody of the students?"
+msgstr "Vous avez la garde des élèves ?"
+
+msgid "Do you want to continue?"
+msgstr "Voulez-vous continuer?"
+
+msgid "Do you want to have the link sent again?"
+msgstr "Vous voulez avoir le lien envoyé à nouveau ?"
+
+msgid "Do you want to submit the forms now without the attachments?"
+msgstr "Vous voulez soumettre les formulaires maintenant sans les pièces jointes ?"
+
+msgid "Do you want to submit the forms now?"
+msgstr "Vous voulez soumettre les formulaires maintenant ?"
+
+msgid "Doctor"
+msgstr "Massothérapeute"
+
+msgid "Doctors"
+msgstr "Massothérapeutes"
+
+msgid "Document Type"
+msgstr "Type de document"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Dose"
+msgstr "Dose"
+
+msgid "Doses Received"
+msgstr "Doses reçues"
+
+msgid "Drop Off"
+msgstr "Débarquement"
+
+msgid "Drop Off Location"
+msgstr "Drop Off Localisation"
+
+msgid "Drop Off Route"
+msgstr "Drop Off Route"
+
+msgid "Dropped"
+msgstr "Dépouillé"
+
+msgid "Dropped Date"
+msgstr "Date de tombée"
+
+msgid "Dropped<br>Date"
+msgstr "Dépouillé <br> Date"
+
+msgid "Due"
+msgstr "Dû"
+
+msgid "Due Date"
+msgstr "Date d'échéance"
+
+msgid "Due Today"
+msgstr "À Payer Aujourd'hui"
+
+msgid "Due Tomorrow"
+msgstr "Dû demain"
+
+msgid "Due date has passed, but no score or mark has been entered"
+msgstr "Due date est dépassée, mais aucune partition ou la marque n'a été entré"
+
+msgid "Due tomorrow"
+msgstr "Dû demain"
+
+msgid "Due&nbsp;"
+msgstr "Dû&nbsp;"
+
+msgid "Duplicate Email Address"
+msgstr "Adresse email déjà enregistrée"
+
+msgid "Duplicate Entry"
+msgstr "Entrée en double"
+
+msgid "Duplicate the information from another class, then modify it as desired."
+msgstr "Dupliquez les informations d'une autre classe, puis modifiez-les comme vous le souhaitez."
+
+msgid "Duration"
+msgstr "Durée"
+
+msgid "ELL Students"
+msgstr "Etudiants ELL"
+
+msgid "Earned"
+msgstr "Earned"
+
+msgid "Earned Credits"
+msgstr "Crédits gagnés"
+
+msgid "Earned<br>Credits"
+msgstr "Earned <br> Crédits"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit Admin Comments"
+msgstr "Modifier les commentaires de l'administrateur"
+
+msgid "Edit Announcement"
+msgstr "Modifier une annonce"
+
+msgid "Edit Attachment"
+msgstr "Modifier la pièce jointe"
+
+msgid "Edit Behavior Referral"
+msgstr "Modifier le comportement référent"
+
+msgid "Edit Course Requests"
+msgstr "Modifier les demandes de cours"
+
+msgid "Edit Day"
+msgstr "Jour d'édition"
+
+msgid "Edit Document"
+msgstr "Editer le document"
+
+msgid "Edit Entry"
+msgstr "Modifier l'entrée"
+
+msgid "Edit Link"
+msgstr "Modifier le lien"
+
+msgid "Edit Meeting Pattern"
+msgstr "Modifier le modèle de réunion"
+
+msgid "Edit Period"
+msgstr "Modifier la période"
+
+msgid "Edit Report Folder"
+msgstr "Modifier le dossier de rapport"
+
+msgid "Edit Topic"
+msgstr "Modifier le sujet"
+
+msgid "Editing Requests"
+msgstr "Demandes d'édition"
+
+msgid "Effective"
+msgstr "Efficace"
+
+msgid "Effective<br>Score"
+msgstr "Efficace <br> But"
+
+msgid "Email"
+msgstr "Email"
+
+msgid ""
+"Email\n"
+"                                    Teacher"
+msgstr ""
+"Email\n"
+"                                    Prof"
+
+msgid ""
+"Email\r\n"
+"                        Teacher"
+msgstr ""
+"Email\r\n"
+"                        Prof"
+
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+msgid "Email Address - Work"
+msgstr "Adresse e-mail - travail"
+
+msgid "Email Not Sent"
+msgstr "Email non envoyé"
+
+msgid "Email Notifications"
+msgstr "Notifications Participation téléphoniques"
+
+msgid "Email Notifications are not activated for the school(s) your student(s) attend."
+msgstr "Notifications par courriel ne sont pas activés pour l'école (s) de votre étudiant (s) assister."
+
+msgid "Email Sent"
+msgstr "Courriel envoyé"
+
+msgid "Email Teacher"
+msgstr "Email Enseignant"
+
+msgid "Email already exists"
+msgstr "Cette adresse e-mail existe déjà"
+
+msgid "Emails do not match"
+msgstr "Les mails ne correspondent pas"
+
+msgid "Emergency"
+msgstr "Urgence"
+
+msgid ""
+"Emergency\r\n"
+"                Contacts"
+msgstr ""
+"Urgence\r\n"
+"                Contacts"
+
+msgid ""
+"Emergency\r\n"
+"            Contacts"
+msgstr ""
+"Urgence\r\n"
+"            Contacts"
+
+msgid "Emergency Contact"
+msgstr "Ajouter un Contact d'urgence"
+
+msgid "Emergency Contacts"
+msgstr "Personne à contacter en cas d'urgence"
+
+msgid "Emergency Contacts (System)"
+msgstr "Contacts d'urgence (système)"
+
+msgid "Emergency Phone"
+msgstr "Borne d’appel"
+
+msgid "Emergency Text"
+msgstr "Texte d&#39;urgence"
+
+msgid "Employer"
+msgstr "Employeur"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "End Date"
+msgstr "Date de fin"
+
+msgid "End Time"
+msgstr "Heure de fin"
+
+msgid "Ends with"
+msgstr "Se termine par"
+
+msgid "English"
+msgstr "English"
+
+msgid "Enroll Date"
+msgstr "Date d'inscription"
+
+msgid "Enrolled"
+msgstr "Inscrit"
+
+msgid "Enrollment History"
+msgstr "Histoire de l'inscription"
+
+msgid "Enrollment Status"
+msgstr "STATUT DE L'INSCRIPTION"
+
+msgid "Entry Date"
+msgstr "Entrée date"
+
+msgid "Entry Date/Time"
+msgstr "Date / heure d'entrée"
+
+msgid "Entry<br>Date"
+msgstr "Entrée<br>date"
+
+msgid "Equals"
+msgstr "Équivaut à"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Errors"
+msgstr "Erreurs"
+
+msgid "Errors Exist"
+msgstr "Des erreurs existent"
+
+msgid "Errors were found. Please see details below."
+msgstr "Erreurs trouvées. S'il vous plaît voir les détails ci-dessous."
+
+msgid "Estimated Classes"
+msgstr "Classes estimées"
+
+msgid "Ethnicity"
+msgstr "Ethnicité"
+
+msgid "Ethnicity is required."
+msgstr "L’ethnicité n’est requise."
+
+msgid "Event"
+msgstr "Événement"
+
+msgid "Event #"
+msgstr "Un événement #"
+
+msgid "Event Comments"
+msgstr "Evénement Commentaires"
+
+msgid "Event ID"
+msgstr "ID d'événement"
+
+msgid "Everything will now be reviewed by the school district. If any changes need to be made, you will receive an email letting you know.  Otherwise, you will receive an email telling you the forms have been accepted and the process is complete."
+msgstr "Tout sera maintenant examiné par le district scolaire. Si des modifications doivent être apportées, vous recevrez un courrier électronique vous informant. Dans le cas contraire, vous recevrez un e-mail vous informant les formulaires ont été acceptées et le processus est terminé."
+
+msgid "Example: someone@sample.com"
+msgstr "Exemple : someone@sample.com"
+
+msgid "Excessive<br>Absences"
+msgstr "Excessive<br>Absences"
+
+msgid "Exemption Code"
+msgstr "Code d&#39;exemption"
+
+msgid "Existing Classes"
+msgstr "Classes existantes"
+
+msgid "Existing Seats"
+msgstr "Sièges existants"
+
+msgid "Exit Date"
+msgstr "Date de Sortie"
+
+msgid "Expand All"
+msgstr "Tout développer"
+
+msgid "Expand More, then select an underlined term to see more details."
+msgstr "Développez Plus, puis sélectionnez un terme souligné pour voir plus de détails."
+
+msgid "Expand the More area for the contact if you want to remove a student from the contact or change student-specific settings for this contact."
+msgstr "Développez la zone plus du contact si vous souhaitez supprimer un étudiant du contact ou changer des paramètres spécifiques au étudiant de ce contact."
+
+msgid "Expand the More area to edit the requests."
+msgstr "Développez la zone plus pour modifier les demandes."
+
+msgid "Export"
+msgstr "Exportation"
+
+msgid "Ext."
+msgstr "Ext."
+
+msgid ""
+"Extra\n"
+"                                            Grade Point"
+msgstr ""
+"Supplémentaire\n"
+"                                            Point de grade"
+
+msgid ""
+"Extra\n"
+"                      Grade Point"
+msgstr ""
+"Supplémentaire\n"
+"                      Point de grade"
+
+msgid "Extra Grade Point"
+msgstr "Point d&#39;année supplémentaire"
+
+msgid "FTP Address"
+msgstr "Adresse FTP"
+
+msgid "Favorites"
+msgstr "Favorites"
+
+msgid "February"
+msgstr "Février"
+
+msgid "Fee"
+msgstr "Frais"
+
+msgid "Fee Code"
+msgstr "Code de droit"
+
+msgid "Fees"
+msgstr "Frais acheteur :"
+
+msgid "Fees & Billing"
+msgstr "Frais de facturation &"
+
+msgid "Fees & Billing Accounts"
+msgstr "Frais et comptes de facturation"
+
+msgid "Fees &amp; Billing"
+msgstr "Frais de facturation &"
+
+msgid "Female"
+msgstr "Femelle"
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Field #"
+msgstr "Champ #"
+
+msgid "Fields for the first student are provided. If you need to add more students, select the Add Student button in the bottom bar."
+msgstr "Champs pour le premier étudiant sont fournis. Si vous avez besoin d’ajouter plus d’étudiants, sélectionnez le bouton Ajouter étudiant dans la barre inférieure."
+
+msgid "Fields for the first student are provided. To register additional students, add their information by selecting the Add Student button in the bottom bar."
+msgstr "Les champs pour le premier élève sont fournis. Pour inscrire d'autres étudiants, ajoutez leurs informations en sélectionnant le bouton Ajouter un étudiant dans la barre du bas."
+
+msgid "File Description"
+msgstr "Description du fichier"
+
+msgid "File Name"
+msgstr "Nom de fichier"
+
+msgid "File Type"
+msgstr "Type de fichier"
+
+msgid "File required."
+msgstr "Fichier requis"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Filter Results"
+msgstr "Votre sélection"
+
+msgid "Final"
+msgstr "Final"
+
+msgid "Final Grade"
+msgstr "Note finale"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "First Name is required."
+msgstr "Le prénom est obligatoire"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "For"
+msgstr "Pour"
+
+msgid ""
+"For each form, provide the requested information, check the box at the bottom to indicate the form is\r\n"
+"            complete, then click the \"Next\" button in the bottom bar to move to the next form."
+msgstr ""
+"Pour chaque formulaire, fournissez les informations demandées, cochez la case en bas pour indiquer que le formulaire est\r\n"
+"            terminé, puis cliquez sur le bouton \"Suivant\" dans la barre inférieure pour passer au formulaire suivant."
+
+msgid "For each form, provide the requested information, check the box at the bottom to indicate the form is complete, then click the \"Next\" button in the bottom bar to move to the next form."
+msgstr "Pour chaque formulaire, entrez les renseignements demandés, cochez la case en bas pour indiquer que le formulaire est complet, puis cliquez sur le bouton « Suivant » dans la barre inférieure de passer à la prochaine forme."
+
+msgid "For this family, you are a household parent"
+msgstr "Pour cette famille, vous êtes un parent du ménage"
+
+msgid "For this family, you are a nonresident parent"
+msgstr "Pour cette famille, vous êtes un parent non-résident"
+
+msgid "For which student are you submitting this e-Form?"
+msgstr "Pour quel étudiant soumettez-vous ce formulaire électronique?"
+
+msgid "For which year do you want to register students?"
+msgstr "Pour quelle année vous souhaitez inscrire les élèves ?"
+
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "Form {{currentForm + 1}} of {{totalForms}}"
+msgstr "Former {{currentForm + 1}} de {{totalForms}}"
+
+msgid "Forms Completed"
+msgstr "Les formulaires remplis"
+
+msgid "Forms have been"
+msgstr "Les formulaires ont été"
+
+msgid "Forms have been<br>submitted"
+msgstr "Formulaires ont été<br>soumis"
+
+msgid "Forms were submitted manually for this student"
+msgstr "Les formulaires ont été soumis manuellement pour cet étudiant"
+
+msgid "Forms were submitted manually for this student."
+msgstr "Les formulaires ont été soumis manuellement pour cet étudiant."
+
+msgid "French"
+msgstr "français"
+
+msgid "Frequency"
+msgstr "Fréquence"
+
+msgid "Fri"
+msgstr "ven"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "From"
+msgstr "De"
+
+msgid "Function"
+msgstr "Une fonction"
+
+msgid "GALDS"
+msgstr "GALDS"
+
+msgid "GAT"
+msgstr "FLINGUE"
+
+msgid "GAT Course"
+msgstr "Cours GAT"
+
+msgid "GAT Requests"
+msgstr "Demandes GAT"
+
+msgid "GAT Students / Seats"
+msgstr "GAT Etudiants / Sièges"
+
+msgid "GAT Students/Seats"
+msgstr "GAT Etudiants / Sièges"
+
+msgid ""
+"GO TO\n"
+"                        GRADES"
+msgstr ""
+"ALLER À\n"
+"                        Grades"
+
+msgid "GO TO ANNOUNCEMENTS"
+msgstr "ALLEZ AUX ANNONCES"
+
+msgid "GO TO ASSIGNMENTS"
+msgstr "ALLEZ AUX AFFECTATIONS"
+
+msgid "GO TO ATTENDANCE"
+msgstr "Aller à la présence"
+
+msgid "GO TO CALENDAR"
+msgstr "ALLEZ AU CALENDRIER"
+
+msgid "GO TO FEES & BILLING"
+msgstr "Aller aux frais et à la facturation"
+
+msgid "GO TO GRADES"
+msgstr "ALLEZ AUX GRADES"
+
+msgid "GO TO MEAL SERVICE"
+msgstr "ALLEZ AU REPAS"
+
+msgid "GO TO STUDENT SCHEDULE"
+msgstr "ALLEZ À L'HEURE DES ÉTUDIANTS"
+
+msgid "Gender"
+msgstr "Le sexe"
+
+msgid "Gender is required."
+msgstr "Le sexe est obligatoire"
+
+msgid "General"
+msgstr "Général"
+
+msgid "General Text"
+msgstr "Texte général"
+
+msgid "Generation"
+msgstr "Génération"
+
+msgid "Go Back to Previous Screen"
+msgstr "Retournez à l'écran précédent"
+
+msgid "Grade"
+msgstr "Catégorie"
+
+msgid "Grade Level"
+msgstr "Année/niveau"
+
+msgid "Grade Level Settings"
+msgstr "Paramètres de niveau scolaire"
+
+msgid "Grade Level is required."
+msgstr "Niveau est requis."
+
+msgid "Grade Levels"
+msgstr "Niveaux"
+
+msgid "Grade Status"
+msgstr "Statut de la classe"
+
+msgid "Grade {{onlineRegistrationCustomForm.GradeLevel}} <span ng-if=\"onlineRegistrationCustomForm.SchoolName.length > 0\"> - {{onlineRegistrationCustomForm.SchoolName}}</span>"
+msgstr "Qualité {{onlineRegistrationCustomForm.GradeLevel}} <span ng-if=\"onlineRegistrationCustomForm.SchoolName.length > 0\"> - {{onlineRegistrationCustomForm.SchoolName}}</span>"
+
+msgid "Grade {{studentEnrollment.GradeLevel}} - {{studentEnrollment.SchoolDescription}}"
+msgstr "Grade {{studentEnrollment.GradeLevel}} - {{studentEnrollment.SchoolName}}"
+
+msgid "Grade(s)"
+msgstr "Niveau (x)"
+
+msgid "Grade<br>Level"
+msgstr "Année/<br>niveau"
+
+msgid "Gradebook Updated"
+msgstr "Carnet de notes mis à jour"
+
+msgid "Gradebook score notification"
+msgstr "Carnet de notes score notification"
+
+msgid "Grades"
+msgstr "Notes"
+
+msgid "Grading Due"
+msgstr "Classement dû"
+
+msgid "Grading Period"
+msgstr "Période classement"
+
+msgid "Grading Period:"
+msgstr "Période classement:"
+
+msgid "Grading Scale"
+msgstr "Période classement"
+
+msgid "Grading Scale and Comment"
+msgstr "Grading Scale et commentaire"
+
+msgid ""
+"Graduation\n"
+"                                            Dept"
+msgstr ""
+"L'obtention du diplôme\n"
+"                                            Dept"
+
+msgid ""
+"Graduation\n"
+"                      Dept"
+msgstr ""
+"L'obtention du diplôme\n"
+"                      Dept"
+
+msgid "Graduation Basis"
+msgstr "Base de Graduation"
+
+msgid "Graduation Dept"
+msgstr "Graduation Dept"
+
+msgid "Graduation Plan"
+msgstr "Plan d&#39;Graduation"
+
+msgid "Graduation Plan > Subject Area"
+msgstr "Plan de remise des diplômes> Domaine"
+
+msgid "Graduation Plan > Subject Area > Credit Codes"
+msgstr "Plan de remise des diplômes> Domaine> Codes de crédit"
+
+msgid "Graduation Plan > Subject Area > Credit Codes > Courses"
+msgstr "Plan de remise des diplômes> Domaine> Code de crédit> Cours"
+
+msgid "Graduation Plan Progress"
+msgstr "Progrès du plan de graduation"
+
+msgid "Graduation Plan/Subject Area/Credit Code/Course"
+msgstr "Plan de diplomation / domaine / code de crédit / cours"
+
+msgid "Graduation Year"
+msgstr "Année d&#39;obtention"
+
+msgid "Greater Than"
+msgstr "Plus grand que"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Group Score"
+msgstr "Score du groupe"
+
+msgid "HELP"
+msgstr "AIDEZ-MOI"
+
+msgid "HR"
+msgstr "RH"
+
+msgid ""
+"Has\r\n"
+"                                        Custody"
+msgstr ""
+"A\r\n"
+"                                        Garde"
+
+msgid ""
+"Has\r\n"
+"                                    Custody"
+msgstr ""
+"A\r\n"
+"                                    Garde"
+
+msgid "Has Custody"
+msgstr "A la garde"
+
+msgid "Have any of your students attended schools in the district at any time in the past?"
+msgstr "Est-ce qu’un de vos élèves ont fréquentaient des écoles dans le district à tout moment dans le passé ?"
+
+msgid "Health"
+msgstr "Santé"
+
+msgid "Health Visit Log"
+msgstr "Journal de visite de santé"
+
+msgid ""
+"Health visits in the last seven\r\n"
+"                  days"
+msgstr ""
+"Visites de santé au cours des sept dernières\r\n"
+"                  journées"
+
+msgid "Health/Medical"
+msgstr "la santé"
+
+msgid "Height (inches)"
+msgstr "Hauteur (pouces)"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Here are a couple of things to help get you started."
+msgstr "Voici quelques conseils pour vous aider à démarrer."
+
+msgid "Hiding/Showing Cards"
+msgstr "Cacher / Montrer des cartes"
+
+msgid "Highest Score"
+msgstr "Score le plus élevé"
+
+msgid "Highlight Meeting Patterns"
+msgstr "Surligner les modèles de réunion"
+
+msgid "Highlight Period"
+msgstr "Point culminant"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Home Phone"
+msgstr "Téléphone personnel"
+
+msgid "Home Phone 1"
+msgstr "Accueil Téléphone 1"
+
+msgid "Home Phone 2"
+msgstr "Accueil Téléphone 2"
+
+msgid "Home Room"
+msgstr "Accueil Chambre"
+
+msgid "Home Tel-1: {{ primaryParent.HomePhone1 }}"
+msgstr "Tél. domicile-1: {{primaryParent.HomePhone1}}"
+
+msgid "HomeRoom"
+msgstr "Professeur principal"
+
+msgid "Homeroom"
+msgstr "Professeur principal"
+
+msgid "Hours"
+msgstr "Heures"
+
+msgid "House #"
+msgstr "Maison"
+
+msgid "House # is required."
+msgstr "Maison # est nécessaire."
+
+msgid ""
+"Household\r\n"
+"                Parents"
+msgstr ""
+"Ménage\r\n"
+"                Parents"
+
+msgid ""
+"Household\r\n"
+"            Parents"
+msgstr ""
+"Ménage\r\n"
+"            Parents"
+
+msgid "Household Addresses"
+msgstr "Adresses de ménage"
+
+msgid "Household Addresses (System)"
+msgstr "Adresses des ménages (système)"
+
+msgid "Household Parents"
+msgstr "Parents ménagers"
+
+msgid "Household Parents (System)"
+msgstr "Les parents des ménages (Système)"
+
+msgid "Household at"
+msgstr "Ménage à"
+
+msgid "Household at {{detail.Address}}"
+msgstr "Ménage à {{détail.Adresse}}"
+
+msgid "Household at {{nr.Address}}"
+msgstr "Ménage à {{nr.Address}}"
+
+msgid "Household of"
+msgstr "Ménage de"
+
+msgid "Household of {{onlineRegistrationUserPacket.UserName}}"
+msgstr "Ménage de {{onlineRegistrationUserPacket.UserName}}"
+
+msgid "I have Verified the information on this screen.&nbsp;&nbsp;&nbsp;Last verified {{lastVerified | date: 'MM/d/yy'}}"
+msgstr "J'ai vérifié les informations sur cet écran.&nbsp;&nbsp;&nbsp;Dernière vérifié {{lastVerified | date: 'MM/d/yy'}}"
+
+msgid "I have completed this form and understand that checking this box is considered to be my"
+msgstr "J'ai rempli ce formulaire et je comprends que cocher cette case est considéré comme étant ma"
+
+msgid "I have completed this form and understand that checking this box is considered to be my<br>electronic signature of the form, certifying that the information above is true and accurate."
+msgstr "J'ai rempli ce formulaire et comprendre que cette case est considéré comme mon<br>signature électronique du formulaire, attestant que les renseignements ci-dessus sont véridiques et exacts."
+
+msgid "IEP Case Manager"
+msgstr "Gestionnaire de cas IEP"
+
+msgid "IMMUNIZATIONS"
+msgstr "IMMUNISATIONS"
+
+msgid "INSURANCE"
+msgstr "ASSURANCE"
+
+msgid "Ibuprofen"
+msgstr "Ibuprofène"
+
+msgid "If any of your students have attended schools in the district in the past, you are not considered to be a \"new\" family and the New Family Registration option should not be used."
+msgstr "Si un de vos élèves ont fréquenté des écoles du district dans le passé, vous n’êtes pas considéré d’être une famille de « nouveaux » et l’option de la nouvelle famille d’enregistrement ne devrait pas servir."
+
+msgid ""
+"If changes need to be made to information shown on this form which is not editable, please contact the\n"
+"\t\t\t\tdistrict."
+msgstr ""
+"Si des modifications doivent être apportées aux informations figurant sur ce formulaire qui ne sont pas modifiables, veuillez contacter le\n"
+"district."
+
+msgid ""
+"If changes need to be made to information shown on this form which is not editable, please contact the\r\n"
+"            district."
+msgstr ""
+"Si des modifications doivent être apportées aux informations figurant sur ce formulaire qui ne sont pas modifiables, veuillez contacter le\r\n"
+"            district."
+
+msgid "If changes need to be made to information shown on this form which is not editable, please contact the district."
+msgstr "Si des modifications doivent être apportées à l'information figurant sur ce formulaire qui est non modifiable, s'il vous plaît contacter le district."
+
+msgid "If changes need to be made to information shown on this form, which is not editable, please contact the school."
+msgstr "Si des modifications doivent être apportées aux informations figurant sur ce formulaire, qui ne sont pas modifiables, veuillez contacter l’école."
+
+msgid "If student is absent"
+msgstr "Si l'étudiant est absent"
+
+msgid "If student is involved in behavior incident"
+msgstr "Si l'élève est impliqué dans un incident de comportement"
+
+msgid "If student is involved in discipline incident"
+msgstr "Si l'élève est impliqué dans l'incident de la discipline"
+
+msgid "If student is missing an assignment score"
+msgstr "Si l'étudiant est absent à un score d'attribution"
+
+msgid "If student received a score higher than"
+msgstr "Si l'étudiant a obtenu une note supérieure à"
+
+msgid "If student received a score lower than"
+msgstr "Si l'étudiant a obtenu une note inférieure à"
+
+msgid "If student visits the nurse's office"
+msgstr "Si l'étudiant visite le Bureau de l'infirmière"
+
+msgid "If student's marking period score falls below"
+msgstr "Si l'étudiant de marquage score période passe en dessous de"
+
+msgid "If you continue, this information will be lost."
+msgstr "Si vous continuez, cette information sera perdue."
+
+msgid "If you continue:"
+msgstr "Si vous continuez :"
+
+msgid "If you have forgotten your password, use the Forgot Password link on the login page."
+msgstr "Si vous avez oublié votre mot de passe, utilisez le lien vous avez oublié le mot de passe sur la page de connexion."
+
+msgid "If you have not provided information for all the students you want to register, select the Cancel button, then use the Add Student button in the bottom bar to add fields for the additional students' information."
+msgstr "Si vous n'avez pas fourni d'informations à tous les étudiants que vous souhaitez inscrire, sélectionnez le bouton Annuler, puis utilisez le bouton Ajouter un étudiant dans la barre du bas pour ajouter des champs contenant les informations relatives aux étudiants supplémentaires."
+
+msgid "If you know the exact"
+msgstr "Si vous connaissez l&#39;exacte"
+
+msgid "If you want to proceed to a screen provided by ConnexPoint to submit your credit card information"
+msgstr "Si vous souhaitez passer à un écran fourni par ConnexPoint pour soumettre vos informations de carte de crédit"
+
+msgid "If you want to proceed to a screen provided by Connexpoint to submit your credit card information"
+msgstr "Si vous souhaitez passer à un écran fourni par Connexpoint pour soumettre les informations de votre carte de crédit"
+
+msgid "If you want to proceed to a screen provided by PayPal to submit your eCheck or credit card information"
+msgstr "Si vous souhaitez passer à un écran fourni par PayPal pour soumettre vos informations de chèque électronique ou de carte de crédit"
+
+msgid "If you want to proceed to a screen provided by PayPal to submit your eCheck or credit card information<br>and complete this transaction select Proceed to PayPal. If not, select Go Back to Previous Screen."
+msgstr "Si vous souhaitez procéder à un écran fourni par PayPal pour envoyer vos informations de carte de crédit ou chèque électronique<br>et complète cette transaction sélectionnez procédez à PayPal. Si ce n'est pas le cas, sélectionnez Go Back à l'écran précédent."
+
+msgid ""
+"If you wish to add additional contacts for the family, this can be done on the Parent/Contact Information\r\n"
+"            form."
+msgstr ""
+"Si vous souhaitez ajouter des contacts supplémentaires pour la famille, vous pouvez le faire sur le parent / informations de contact.\r\n"
+"            forme."
+
+msgid "If you wish to add additional contacts for the family, this can be done on the Parent/Contact Information form."
+msgstr "Si vous souhaitez ajouter des contacts supplémentaires pour la famille, cela peut être fait sur le formulaire Parent/coordonnées."
+
+msgid "If your students are already registered at the district or have attended the district in the past, this option cannot be used."
+msgstr "Si vos élèves sont déjà inscrits au district ou ont fréquenté le quartier dans le passé, cette option ne peut pas être utilisée."
+
+msgid "Immunization Warning"
+msgstr "immunisation Avertissement"
+
+msgid "Immunizations"
+msgstr "Vaccinations"
+
+msgid "Import from File"
+msgstr "Importer à partir d'un fichier"
+
+msgid "In Bound Bus"
+msgstr "En bus lié"
+
+msgid "In Bound Route"
+msgstr "En route liée"
+
+msgid "In Bound Stop"
+msgstr "En arrêt lié"
+
+msgid "In Bound Stop Time"
+msgstr "En heure d'arrêt liée"
+
+msgid "In Progress"
+msgstr "En cours"
+
+msgid "In USe"
+msgstr "Utilisé"
+
+msgid "In order to prevent contacts from seeing each"
+msgstr "Afin d'éviter que les contacts ne se voient"
+
+msgid "In which year do you want to add this student?"
+msgstr "En quelle année voulez-vous ajouter cet étudiant?"
+
+msgid "Inactive"
+msgstr "Inactif"
+
+msgid "Incident"
+msgstr "Incident"
+
+msgid "Incident Code"
+msgstr "Code d'incident"
+
+msgid "Incident Comments"
+msgstr "Incidents commentaires"
+
+msgid "Include"
+msgstr "Comprendre"
+
+msgid "Include In GPA"
+msgstr "Inclure dans GPA"
+
+msgid "Include In GPA:"
+msgstr "Inclure dans GPA:"
+
+msgid "Include Inactive Teams"
+msgstr "Activités et équipes"
+
+msgid "Include Lunch"
+msgstr "Déjeuner inclus"
+
+msgid "Include in ADA"
+msgstr "Inclure dans ADA"
+
+msgid "Include services active anytime in this academic year"
+msgstr "Inclure les services actifs à tout moment en cette année académique"
+
+msgid "Include {{ReportFolderSettingsName}} in the following folders:"
+msgstr "{{ReportFolderSettingsName}} faire figurer dans les dossiers suivants :"
+
+msgid "Incomplete"
+msgstr "Mission Inachevée"
+
+msgid "Ingredient"
+msgstr "Ingrédient"
+
+msgid "Ingredients"
+msgstr "Ingrédients"
+
+msgid "Instructional Time"
+msgstr "Temps d'enseignement"
+
+msgid "Instructor"
+msgstr "Instructeur"
+
+msgid "Insurance"
+msgstr "Assurance"
+
+msgid "Invalid Section"
+msgstr "Section valide"
+
+msgid "Invalid Subject"
+msgstr "Objet non valide"
+
+msgid "Invalid Zip Code"
+msgstr "Code postal invalide"
+
+msgid "Invalid date"
+msgstr "Date invalide"
+
+msgid "Invalid date!"
+msgstr "Date non valide"
+
+msgid "Invalid email"
+msgstr "Courriel non valide"
+
+msgid "Invalid email address"
+msgstr "Adresse email incorrecte"
+
+msgid "Invalid email format"
+msgstr "format d'email invalide :"
+
+msgid "Invalid phone number"
+msgstr "Téléphone non-valide"
+
+msgid "Invalid scores have been entered into the gradebook. Correct the scores highlighted in red, and resubmit the grades."
+msgstr "Scores non valides ont été entrés dans le carnet de notes. Corriger les points mis en évidence en rouge et soumettre à nouveau les grades."
+
+msgid "Invoice #"
+msgstr "N° de facture"
+
+msgid "Involvement"
+msgstr "Implication"
+
+msgid "Involvement Type"
+msgstr "Type d'implication"
+
+msgid ""
+"Involving\r\n"
+"                                    Others"
+msgstr ""
+"Impliquant\r\n"
+"                                    Autres"
+
+msgid "Involving Others"
+msgstr "Impliquant d'autres"
+
+msgid "Is Guardian"
+msgstr "Est-Gardien"
+
+msgid "Issuer"
+msgstr "Emetteur"
+
+msgid "Item"
+msgstr "Article"
+
+msgid "Item Type"
+msgstr "Type d'élément"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "Known Medications for Student"
+msgstr "Prend n'importe quel autre élève de médicaments"
+
+msgid "LEP"
+msgstr "LEP"
+
+msgid "LEP Course"
+msgstr "Cours LEP"
+
+msgid "LEP Requests"
+msgstr "Demandes LEP"
+
+msgid "LEP Students"
+msgstr "Étudiants LEP"
+
+msgid "Lab Stations"
+msgstr "Stations de laboratoire"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Language Spoken At Home"
+msgstr "Langue parlée à la maison"
+
+msgid "Language Spoken at Home"
+msgstr "Langue parlée à la maison"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Last Name is required."
+msgstr "Le nom est obligatoire"
+
+msgid "Last Portal Login"
+msgstr "Dernière connexion au portail"
+
+msgid "Last Updated"
+msgstr "Dernière mise à jour"
+
+msgid "Last Updated By"
+msgstr "Dernière mise à jour par"
+
+msgid "Last Updated&nbsp;"
+msgstr "Dernière mise à jour&nbsp;"
+
+msgid "Legend"
+msgstr "Légende"
+
+msgid "Less"
+msgstr "Moins"
+
+msgid "Less Than"
+msgstr "Moins que"
+
+msgid "Lesson Plans"
+msgstr "Plans de leçon"
+
+msgid "Letter"
+msgstr "Lettre"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "Link Already Sent"
+msgstr "Lien déjà envoyé"
+
+msgid "Links"
+msgstr "Liens"
+
+msgid "List and Describe the Symptoms of Any Food or Drug Allergies"
+msgstr "Répertorier et décrire les symptômes des aliments ou médicaments Allergies"
+
+msgid "List teachers for"
+msgstr "Liste des enseignants pour"
+
+msgid ""
+"Lives\r\n"
+"                                        With"
+msgstr ""
+"Vies\r\n"
+"                                        Avec"
+
+msgid ""
+"Lives\r\n"
+"                                    With"
+msgstr ""
+"Vies\r\n"
+"                                    Avec"
+
+msgid "Lives With"
+msgstr "Vit avec"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Location {{eventDetails.Location}}"
+msgstr "Emplacement {{eventDetails.Location}}"
+
+msgid "Lock Screen"
+msgstr "Verrouiller l'écran"
+
+msgid "Lock Section"
+msgstr "Section de verrouillage"
+
+msgid "Locker #"
+msgstr "Compartiment"
+
+msgid "Locker Combination"
+msgstr "Combinaison Locker"
+
+msgid "Login Exists"
+msgstr "Ouverture de session existe"
+
+msgid "Login Information"
+msgstr "Informations de connexion"
+
+msgid "Login information has already been provided for this email address."
+msgstr "Informations de connexion a déjà été fournies pour cette adresse de courriel."
+
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgid "Logout of 360"
+msgstr "Déconnexion de 360"
+
+msgid "Lunch"
+msgstr "Dîner"
+
+msgid "Lunch Meal Planner"
+msgstr "Planificateur de repas de midi"
+
+msgid "Lunch Menu"
+msgstr "Menu du Midi *"
+
+msgid "Lunch Menu -"
+msgstr "Menu du déjeuner -"
+
+msgid "MONTH"
+msgstr "MOIS"
+
+msgid "Mailing Address"
+msgstr "Modifier votre adresse électronique"
+
+msgid "Mailing City is required."
+msgstr "Ville de diffusion est nécessaire."
+
+msgid "Mailing County is required."
+msgstr "Comté de diffusion est nécessaire."
+
+msgid "Mailing House # is required."
+msgstr "Maison de diffusion # est nécessaire."
+
+msgid "Mailing Postal Code is required."
+msgstr "Adresse postale Code Postal est requis."
+
+msgid "Mailing Province is required."
+msgstr "Province de diffusion est nécessaire."
+
+msgid "Mailing State is required."
+msgstr "État de diffusion est nécessaire."
+
+msgid "Mailing Street Type is required."
+msgstr "Rue Type d’envoi est nécessaire."
+
+msgid "Mailing Street is required."
+msgstr "Rue de diffusion est nécessaire."
+
+msgid "Mailing ZIP Code is required."
+msgstr "Code POSTAL d’envoi est nécessaire."
+
+msgid "Mailing Zip Code 2 is required."
+msgstr "Postale Code postal 2 est requis."
+
+msgid "Make this the default folder for everyone."
+msgstr "Faites-en le dossier par défaut pour tout le monde."
+
+msgid "Male"
+msgstr "Mâle"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "Marital Status"
+msgstr "État civil"
+
+msgid "Mark"
+msgstr "marque"
+
+msgid "Mark No Action Needed"
+msgstr "Marquer Aucune action nécessaire"
+
+msgid "Marked"
+msgstr "Marqué"
+
+msgid "Mass Add Classes"
+msgstr "Mass Ajouter des classes"
+
+msgid "Mass Edit Classes"
+msgstr "Mass Edit Classes"
+
+msgid "Mass Email"
+msgstr "Courriel de masse"
+
+msgid "Mass Email Filter"
+msgstr "Filtre de messagerie de masse"
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Max Credits"
+msgstr "Max Credits"
+
+msgid "Max Seats"
+msgstr "Nombre de places maximum"
+
+msgid "Maximum"
+msgstr "Maximums"
+
+msgid "Maximum<br>Credits"
+msgstr "Maximum<br>Crédits"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Meal"
+msgstr "Repas"
+
+msgid "Meal Accounts"
+msgstr "Comptes de repas"
+
+msgid "Meal Group"
+msgstr "Repas groupe"
+
+msgid "Meal Service"
+msgstr "Service de repas"
+
+msgid "Meal Service Balance"
+msgstr "Solde du service de repas"
+
+msgid "Medical Conditions"
+msgstr "Troubles relevant de la médecine"
+
+msgid "Medication"
+msgstr "Médicament"
+
+msgid "Medications"
+msgstr "Médicaments"
+
+msgid "Meeting Pattern"
+msgstr "Modèle de réunion"
+
+msgid "Meeting Patterns"
+msgstr "Modèles de réunion"
+
+msgid "Meets"
+msgstr "Répond"
+
+msgid "Members"
+msgstr "Membres"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Metadata URL"
+msgstr "URL de métadonnées"
+
+msgid "Middle Name"
+msgstr "Deuxième prénom"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Min Credits"
+msgstr "Crédits Min"
+
+msgid "Minimum"
+msgstr "Minimums"
+
+msgid "Minimum Percent"
+msgstr "% Minimum"
+
+msgid "Minimum<br>Credits"
+msgstr "Minimum<br>Crédits"
+
+msgid "Minutes"
+msgstr "Minutes"
+
+msgid "Minutes<br>Attended"
+msgstr "Minutes<br>Ont participé à"
+
+msgid "Minutes<br>Possible"
+msgstr "Minutes<br>Possible"
+
+msgid "Missing"
+msgstr "Manquant"
+
+msgid "Modify Request(s)"
+msgstr "Modifier les demandes"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "Mon"
+msgstr "lun"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Monthly Lunch Menu"
+msgstr "Menu déjeuner mensuel"
+
+msgid "More"
+msgstr "Plus"
+
+msgid "Most Recent"
+msgstr "Les plus récents"
+
+msgid "Most Recent Referral"
+msgstr "La plus récente référence"
+
+msgid "Move Row Down"
+msgstr "Déplacer la rangée vers le bas"
+
+msgid "Move Row Up"
+msgstr "Déplacer la rangée vers le haut"
+
+msgid "Multiple Families"
+msgstr "Plusieurs familles"
+
+msgid "Must be at least {{LoginSettings.MinimumPasswordLength}} characters long"
+msgstr "Doit être au moins {{LoginSettings.MinimumPasswordLength}} caractères de long."
+
+msgid "Must be different than Current Password"
+msgstr "Doit être différent du mot de passe actuel"
+
+msgid "Must have at least 1 alphabetic character (A-Z or a-z) and 1 number (0-9)"
+msgstr "Doit avoir au moins 1 caractère alphabétique (A-Z ou a-z) et 1 Numéro (0-9)."
+
+msgid "Must have at least one Numeric character"
+msgstr "Doit avoir au moins un caractère numérique"
+
+msgid "Must have at least one Special (! @ # $ ...) character"
+msgstr "Doit avoir au moins un spécial (! @ # $ ...) Caractère"
+
+msgid "Must have at least one Uppercase character"
+msgstr "Doit avoir au moins un caractère Majuscules"
+
+msgid "NEW"
+msgstr "NOUVEAU"
+
+msgid "NEXT"
+msgstr "SUIVANT"
+
+msgid "NEXT SCHOOL DAY"
+msgstr "PROCHAINE JOUR SCOLAIRE"
+
+msgid ""
+"NOTE:\n"
+"                  Highlighted cells\n"
+"                  indicate entries awaiting district approval"
+msgstr ""
+"REMARQUE:\n"
+"                  Cellules en surbrillance\n"
+"                  indiquer les entrées en attente de l'approbation du district"
+
+msgid "NOTE: Highlighted cells indicate entries awaiting district approval"
+msgstr "Remarque : Les cellules en surbrillance indiquent entrées en attente d'approbation de quartier"
+
+msgid "NOTE: The answers to these questions can be changed in a later step if they are not the same for all of the student(s) you are registering."
+msgstr "REMARQUE: les réponses à ces questions peuvent être modifiées ultérieurement si elles ne sont pas identiques pour tous les étudiants que vous inscrivez."
+
+msgid "NOTE: The answers to these questions can be changed in a later step if they are not the same for all of the students you are registering."
+msgstr "REMARQUE : Les réponses à ces questions peuvent être modifiées dans une étape ultérieure si elles ne sont pas les mêmes pour tous les élèves, que vous vous inscrivez."
+
+msgid "NOW"
+msgstr "À PRÉSENT"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name On Check"
+msgstr "Nom Le Vérifier"
+
+msgid "Name is required."
+msgstr "Le nom de famille est requis."
+
+msgid "Need"
+msgstr "Besoin d'"
+
+msgid "Needs"
+msgstr "Besoins"
+
+msgid "Net"
+msgstr "Net"
+
+msgid "New"
+msgstr "New"
+
+msgid "New Address"
+msgstr "Nouvelle adresse"
+
+msgid "New Announcements"
+msgstr "Nouvelles annonces"
+
+msgid "New Contact Added"
+msgstr "Nouveau Contact ajouté"
+
+msgid "New Email"
+msgstr "Nouvel email"
+
+msgid "New Family Registration"
+msgstr "Nouvelle inscription familiale"
+
+msgid "New Family Registration - Step 2 of 5"
+msgstr "Nouvel enregistrement familial - étape 2 de 5"
+
+msgid "New Family Registration - Step 3 of 5"
+msgstr "Nouvelle inscription familiale - étape 3 sur 5"
+
+msgid "New Family Registration - Step 4 of 5"
+msgstr "Nouvelle inscription familiale - étape 4 de 5"
+
+msgid "New Family Registration - Step 5 of 5"
+msgstr "Nouvelle inscription familiale - étape 5 de 5"
+
+msgid "New Household"
+msgstr "Ajouter ménage"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "New Password cannot be blank"
+msgstr "Nouveau mot de passe ne peut pas être vide"
+
+msgid "New contacts will be removed"
+msgstr "Nouveaux contacts seront enlevés"
+
+msgid "New optional e-Forms are available"
+msgstr "De nouveaux formulaires électroniques optionnels sont disponibles"
+
+msgid "New password cannot be the same as Login Name"
+msgstr "Nouveau mot de passe ne peut pas être identique au nom de la connexion"
+
+msgid "New password cannot be the same as the current password"
+msgstr "Nouveau mot de passe ne peut pas être le même que le mot de passe actuel"
+
+msgid "New password is required"
+msgstr "Un nouveau mot de passe est requis"
+
+msgid "New password must be at least {{loginSettings.MinimumPasswordLength}} characters"
+msgstr "Nouveau mot de passe doit être au moins {{loginSettings.MinimumPasswordLength}} personnages"
+
+msgid "Newly added information will be deleted"
+msgstr "Nouvellement information ajoutée sera supprimé"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Next School"
+msgstr "École suivante"
+
+msgid "No"
+msgstr "Non"
+
+msgid ""
+"No\n"
+"    assignments exist for this student"
+msgstr ""
+"Non\n"
+"    des missions existent pour cet étudiant"
+
+msgid ""
+"No\n"
+"    grade level credits data exists"
+msgstr ""
+"Non\n"
+"    les données sur les crédits au niveau de la classe existent"
+
+msgid ""
+"No\n"
+"    requirement data exists"
+msgstr ""
+"Non\n"
+"    les données d'exigence existent"
+
+msgid ""
+"No\n"
+"    upcoming/missing assignments exist for this student"
+msgstr ""
+"Non\n"
+"    les affectations à venir / manquantes existent pour cet étudiant"
+
+msgid ""
+"No\r\n"
+"  Medications data exists for student"
+msgstr ""
+"Non\r\n"
+"  Les données sur les médicaments existent pour les étudiants"
+
+msgid "No Academic History data exists for student"
+msgstr "N’existe aucune donnée de l’histoire académique pour les étudiants"
+
+msgid "No Academic History data exists for student."
+msgstr "Aucune donnée d'histoire académique n'existe pour l'étudiant."
+
+msgid "No Activities and Teams data exists for student"
+msgstr "N’existe aucune donnée d’équipes et des activités pour étudiants"
+
+msgid "No Announcement"
+msgstr "Annonce"
+
+msgid "No Assignments data exists for student"
+msgstr "N’existe aucune donnée d’affectations pour étudiant"
+
+msgid "No Attendance data exists for student"
+msgstr "N’existe aucune donnée de fréquentation pour étudiant"
+
+msgid "No Awards data exists for student"
+msgstr "N’existe aucune donnée de bourses pour étudiants"
+
+msgid "No Awards data exists for student."
+msgstr "Il n’existe pas de données sur les récompenses pour les étudiants."
+
+msgid "No Behavior data exists for student."
+msgstr "Aucune donnée de comportement n'existe pour l'étudiant."
+
+msgid "No Categories Defined"
+msgstr "Aucune catégorie définie"
+
+msgid ""
+"No Course\n"
+"\t\trecuirement data exists."
+msgstr ""
+"Pas de cours\n"
+"Il existe des données de retrait."
+
+msgid "No Course Schedule data exists for student"
+msgstr "N’existe aucune donnée de l’horaire de cours pour étudiants"
+
+msgid "No Course requirement data exists."
+msgstr "Aucune donnée sur les exigences de cours n'existe."
+
+msgid "No Deposits Entered"
+msgstr "Aucun dépôt est entré"
+
+msgid "No Discipline data exists for student"
+msgstr "N’existe aucune donnée de Discipline pour étudiant"
+
+msgid "No Discipline data exists for student."
+msgstr "Aucune donnée de discipline n'existe pour l'élève."
+
+msgid "No Doctors data exists for student"
+msgstr "N’existe aucune donnée de médecins pour étudiant"
+
+msgid ""
+"No Documents data\n"
+"    exists for student."
+msgstr ""
+"Aucun document de données\n"
+"    existe pour étudiant."
+
+msgid "No Documents data exists for student."
+msgstr "Aucune donnée de document n'existe pour l'étudiant."
+
+msgid "No Excessive Absences data exists for student"
+msgstr "N’existe aucune donnée d’Absences excessif pour étudiant"
+
+msgid "No Fees & Billing data exists for student"
+msgstr "N’existe aucune donnée de frais & facturation pour étudiant"
+
+msgid "No Fees & Billing data exists for this student."
+msgstr "Il n’existe pas de données sur les frais et la facturation pour cet étudiant."
+
+msgid "No Grades data exists for student"
+msgstr "N’existe aucune donnée de Grades pour étudiant"
+
+msgid "No Grades exist for this student."
+msgstr "Aucune note n'existe pour cet étudiant."
+
+msgid "No HS Transcript data exists for this student."
+msgstr "Aucune donnée HS Transcript n'existe pour cet élève."
+
+msgid "No Health Visit Log data exists for student"
+msgstr "N’existe aucune donnée de santé visite journal étudiant"
+
+msgid ""
+"No IEP data exists for\r\n"
+"\t\tstudent."
+msgstr ""
+"Aucune donnée IEP n'existe pour\r\n"
+"étudiant."
+
+msgid "No IEP data exists for student."
+msgstr "Aucune donnée IEP n'existe pour l'élève."
+
+msgid "No Immunizations data exists for student"
+msgstr "N’existe aucune donnée de vaccinations pour étudiant"
+
+msgid "No Insurance data exists for student"
+msgstr "N’existe aucune donnée d’assurance pour les étudiants"
+
+msgid ""
+"No Meal\r\n"
+"      Service data\r\n"
+"      exists for student."
+msgstr ""
+"Pas de repas\r\n"
+"      Données de service\r\n"
+"      existe pour étudiant."
+
+msgid "No Meal Service data exists for staff member."
+msgstr "Aucune donnée de service de repas n'existe pour le membre du personnel."
+
+msgid "No Meal Service data exists for student"
+msgstr "N’existe aucune donnée de Service de repas pour les étudiants"
+
+msgid "No Meal Service data exists for student."
+msgstr "Aucune donnée de service de repas n'existe pour l'élève."
+
+msgid "No Medications data exists for student"
+msgstr "N’existe aucune donnée d’affectations pour étudiant"
+
+msgid "No Monthly Lunch Menu data exists for student"
+msgstr "Il n’existe pas de données de menu de repas mensuels pour les étudiants"
+
+msgid "No Programs and Services data for student."
+msgstr "Pas de données sur les programmes et services pour les étudiants."
+
+msgid "No Request Tally data exists."
+msgstr "Aucune donnée de comptage de demandes n'existe."
+
+msgid "No Schedule"
+msgstr "Pas d'horaire"
+
+msgid ""
+"No Screening\r\n"
+"  data exists for student"
+msgstr ""
+"Pas de dépistage\r\n"
+"  les données existent pour l'étudiant"
+
+msgid "No Special Additional Attendance data exists for student"
+msgstr "N’existe aucune donnée de fréquentation supplémentaire spécial pour étudiant"
+
+msgid ""
+"No Standard-Based Grades exist for this\r\n"
+"    student."
+msgstr ""
+"Aucune note standard n'existe pour cette\r\n"
+"    étudiant."
+
+msgid "No Standard-Based Grades exist for this student."
+msgstr "Aucune note standard n'existe pour cet élève."
+
+msgid "No Student Added"
+msgstr "Aucun étudiant ajouté"
+
+msgid "No Student Portfolio data exists for student"
+msgstr "N’existe aucune donnée de Portfolio de l’étudiant pour les étudiants"
+
+msgid "No Student Portfolio data exists for this student."
+msgstr "Il n’existe pas de données de portefeuille d’élèves pour cet élève."
+
+msgid "No Student Schedule data exists for student"
+msgstr "Aucune donnée d'horaire d'étudiant n'existe pour l'étudiant"
+
+msgid "No Student Summary data exists."
+msgstr "Il n'existe pas de données de résumé étudiant."
+
+msgid "No announcements for current date."
+msgstr "Aucune annonce pour la date actuelle."
+
+msgid "No announcements for selected date"
+msgstr "Aucune annonce pour la date sélectionnée"
+
+msgid "No assessment scores exist for this student."
+msgstr "Aucun score d'évaluation n'existe pour cet élève."
+
+msgid "No assignments due today or tomorrow."
+msgstr "Aucune affectation due aujourd'hui ou demain."
+
+msgid "No assignments exist for the selected class and grading period."
+msgstr "Aucune affectation n'existe pour la classe et la période de notation sélectionnées."
+
+msgid "No assignments exist for the selected class and term."
+msgstr "Aucune affectation n'existe pour la classe et le terme sélectionnés."
+
+msgid "No assignments exist for the selected class and {{ loginSettings.V10 ? 'grading period' : 'term' }}."
+msgstr "Aucune affectation n'existe pour la classe sélectionnée et {{ loginSettings.V10 ? 'période de classement' : 'terme' }}."
+
+msgid "No assignments exist for this student"
+msgstr "Il n'y a pas d'affectation pour cet étudiant"
+
+msgid ""
+"No attendance data exists\r\n"
+"                for student."
+msgstr ""
+"Aucune donnée de présence n'existe\r\n"
+"                pour étudiant."
+
+msgid ""
+"No attendance data exists for\r\n"
+"                student."
+msgstr ""
+"Aucune donnée de présence n'existe pour\r\n"
+"                étudiant."
+
+msgid "No attendance data exists for student."
+msgstr "Aucune donnée de présence n'existe pour l'élève."
+
+msgid ""
+"No bell Schedule data\n"
+"            exists"
+msgstr ""
+"Aucune cloche Données de calendrier\n"
+"            existe"
+
+msgid "No current grades available"
+msgstr "Aucune note actuelle disponible"
+
+msgid "No district links available."
+msgstr "Aucun lien de district disponible."
+
+msgid "No grade level credits data exists"
+msgstr "Il n’existe pas de données sur les crédits de niveau"
+
+msgid "No health information has been enabled by the administration."
+msgstr "Aucune information sur la santé n'a été activée par l'administration."
+
+msgid "No missing assignments."
+msgstr "Aucune mission manquante."
+
+msgid "No requirement data exists"
+msgstr "Aucune donnée d'exigence n'existe"
+
+msgid "No screening data exists for student"
+msgstr "Aucune donnée de dépistage n'existe pour l'étudiant"
+
+msgid "No screening data exists for this student"
+msgstr "Aucune donnée disponible de dépistage pour cet étudiant"
+
+msgid "No student data exists"
+msgstr "Aucune donnée d'étudiant n'existe"
+
+msgid "No tardies or absences today"
+msgstr "Pas de retard ou d'absence aujourd'hui"
+
+msgid "No transportation data exists for student."
+msgstr "Aucune donnée disponible de transport pour les étudiants."
+
+msgid "No transportation data is currently available."
+msgstr "Aucune donnée de transport n'est actuellement disponible."
+
+msgid "No upcoming events."
+msgstr "Aucun événement à venir."
+
+msgid "No upcoming/missing assignments exist for this student"
+msgstr "Aucune tâche à venir / manquante n'existe pour cet étudiant"
+
+msgid ""
+"Non-Resident\r\n"
+"                Parents"
+msgstr ""
+"Non-résident\r\n"
+"                Parents"
+
+msgid ""
+"Non-Resident\r\n"
+"            Parents"
+msgstr ""
+"Non-résident\r\n"
+"            Parents"
+
+msgid "Non-Resident Parents"
+msgstr "Les parents non-résidents"
+
+msgid "Non-Student-Related Recipients"
+msgstr "Destinataires non liés aux étudiants"
+
+msgid "Non-resident Parents"
+msgstr "Les parents non-résidents"
+
+msgid "Non-resident Parents (System)"
+msgstr "Les parents non-résidents (système)"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Not Enrolled in This School Year"
+msgstr "Pas inscrits dans cette année scolaire"
+
+msgid "Not Enrolled in this School Year - Please select another year"
+msgstr "Pas inscrit pour cette année scolaire - Veuillez sélectionner une autre année"
+
+msgid "Not Equal"
+msgstr "Inégal"
+
+msgid "Not Subscribed"
+msgstr "Non abonné"
+
+msgid "Not Taken"
+msgstr "Pas pris"
+
+msgid "Not Yet Implemented"
+msgstr "Pas encore implémenté"
+
+msgid "Not enrolled in this school year - Please select another year"
+msgstr "Non inscrit à cette année scolaire - Veuillez choisir une autre année"
+
+msgid "Note"
+msgstr "Remarque"
+
+msgid "Note that your password on this site is visible to key staff, so do not use your private<br>or banking passwords. Please make your password difficult for someone to guess."
+msgstr "Notez que votre mot de passe sur ce site est visible à des employés clés, n’utilisez ne pas votre privé<br>ou Banque de mots de passe. Vérifiez votre mot de passe difficile pour quelqu'un de deviner."
+
+msgid "Note:"
+msgstr "Remarque :"
+
+msgid "Note: The relationship can be changed in a later step if it is not the same for all the student(s) you are registering."
+msgstr "Remarque: la relation peut être modifiée ultérieurement si ce n'est pas le même pour tous les étudiants que vous inscrivez."
+
+msgid ""
+"Note: You will not be able to submit forms because you do\r\n"
+"    not have access to\r\n"
+"    all students in this family for whom\r\n"
+"    Online Registration is currently available."
+msgstr ""
+"Remarque: vous ne pourrez pas soumettre de formulaire car vous\r\n"
+"    ne pas avoir accès à\r\n"
+"    tous les étudiants de cette famille pour qui\r\n"
+"    L'inscription en ligne est actuellement disponible."
+
+msgid "Notes"
+msgstr "Notes de la commande"
+
+msgid "Notification Preferences"
+msgstr "Préférences de notification"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "Now"
+msgstr "À présent"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "Off"
+msgstr "De"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Old Address"
+msgstr "Ancienne adresse"
+
+msgid "On the homepage, the menu is always visible on the left side of the screen. On other pages, the menu can be accessed by selecting the menu icon in the upper left corner of the screen:"
+msgstr "Sur la page d'accueil, le menu est toujours visible sur le côté gauche de l'écran. Sur d'autres pages, vous pouvez accéder au menu en sélectionnant l'icône du menu dans le coin supérieur gauche de l'écran:"
+
+msgid "Online Payment"
+msgstr "paiement en ligne"
+
+msgid "Online Payment Verification"
+msgstr "Vérification des paiements en ligne"
+
+msgid "Online Registration"
+msgstr "Enregistrement en ligne"
+
+msgid "Online Registration Inactive"
+msgstr "Inscription en ligne inactive"
+
+msgid "Online Registration is no longer available. Please contact the district."
+msgstr "L'inscription en ligne n'est plus disponible. S'il vous plaît contacter le district."
+
+msgid "Online Registration must be completed for&nbsp;"
+msgstr ""
+
+msgid "Only .pdf, .jpg, and .png files can be uploaded"
+msgstr "Seulement .pdf, .jpg et .png fichiers peuvent être téléchargés"
+
+msgid "Only .pdf, .jpg, and .png files can be uploaded."
+msgstr "Seulement .pdf, .jpg, .png et peuvent être téléchargées."
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Open Portal"
+msgstr "Portail ouvert"
+
+msgid "Operator"
+msgstr "Opérateur"
+
+msgid "Option Not Available"
+msgstr "Option disponible"
+
+msgid "Order"
+msgstr "Ordre"
+
+msgid "Order By"
+msgstr "Ordre par"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Other parents not in this household should be on the Non-resident Parents form."
+msgstr "Les autres parents n'appartenant pas à ce ménage doivent figurer sur le formulaire Parents non résidents."
+
+msgid "Other people associated with your family also have this address."
+msgstr "D'autres personnes associées à votre famille ont également cette adresse."
+
+msgid "Other people associated with your family also have this address:"
+msgstr "D'autres personnes associées à votre famille ont aussi cette adresse:"
+
+msgid "Otherwise,"
+msgstr "Sinon,"
+
+msgid "Otherwise, select Proceed to Step 5."
+msgstr "Sinon, sélectionnez Passez à l'étape 5."
+
+msgid "Out Bound Bus"
+msgstr "Autobus relié"
+
+msgid "Out Bound Route"
+msgstr "Itinéraire sortant"
+
+msgid "Out Bound Stop"
+msgstr "Arrêt hors limites"
+
+msgid "Out Bound Stop Time"
+msgstr "Heure d'arrêt hors limite"
+
+msgid "Over"
+msgstr "Au cours"
+
+msgid "Overall Requirements"
+msgstr "Besoins globaux"
+
+msgid "Overdrawn"
+msgstr "À découvert"
+
+msgid "Overdrawn&nbsp;"
+msgstr "À découvert&nbsp;"
+
+msgid "Overridden"
+msgstr "Annulé"
+
+msgid "Overwrite existing marks"
+msgstr "Ecraser les marques existantes"
+
+msgid "Owner"
+msgstr "Propriétaire"
+
+msgid "P O Box"
+msgstr "P. O."
+
+msgid "PAY"
+msgstr "PAYER"
+
+msgid "PREVIOUS"
+msgstr "PRÉCÉDENT"
+
+msgid "Parent"
+msgstr "Parent"
+
+msgid "Parent 2 data will be deleted."
+msgstr "Les données parent 2 seront supprimées."
+
+msgid "Parent Name"
+msgstr "nom fondamental"
+
+msgid "Parent Notification Filter"
+msgstr "Filtre de notification parent"
+
+msgid "Parent Signature Received"
+msgstr "Signature Parent Reçues"
+
+msgid ""
+"Parent/Contact\r\n"
+"                Details"
+msgstr ""
+"Parent / Contact\r\n"
+"                Détails"
+
+msgid ""
+"Parent/Contact\r\n"
+"            Details"
+msgstr ""
+"Parent / Contact\r\n"
+"            Détails"
+
+msgid "Parent/Contact Details"
+msgstr "Contact parent/détails"
+
+msgid "Parent/Contact Information"
+msgstr "Parent/Contact Information"
+
+msgid "Parent/Contact Information (System)"
+msgstr "Parent / Contact (Système)"
+
+msgid "Parents"
+msgstr "Parents"
+
+msgid "Parents/Students"
+msgstr "Parents / Etudiants"
+
+msgid "Partially Taken"
+msgstr "Partiellement pris"
+
+msgid "Password has already expired."
+msgstr "Mot de passe a déjà expiré."
+
+msgid "Password:"
+msgstr "Mot de passe :"
+
+msgid "Passwords Must Match"
+msgstr "Les mots de passe doivent correspondre"
+
+msgid "Passwords do not match"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "Payment"
+msgstr "Paiement"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "Percentage"
+msgstr "Pourcentage"
+
+msgid "Perfect Attendance"
+msgstr "Assiduité parfaite"
+
+msgid "Perfect attendance cannot be processed for"
+msgstr "L'assiduité parfaite ne peut être traitée pour"
+
+msgid "Period"
+msgstr "Période"
+
+msgid "Period Segment"
+msgstr "Segment de période"
+
+msgid "Periods"
+msgstr "Périodes"
+
+msgid "Periods Included"
+msgstr "Périodes incluses"
+
+msgid "Periods Year-To-Date"
+msgstr "Périodes de l'année à ce jour"
+
+msgid "Pharmacy"
+msgstr "La Pharmacie"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Phone - Cell"
+msgstr "Téléphone - cellulaire"
+
+msgid "Phone - Emergency"
+msgstr "Téléphone - urgence"
+
+msgid "Phone - Emergency is required."
+msgstr "Téléphone - d'urgence est requise."
+
+msgid "Phone - Home"
+msgstr "Téléphone"
+
+msgid "Phone - Work"
+msgstr "Téléphone (bureau)"
+
+msgid "Pick Up"
+msgstr "Embarquement"
+
+msgid "Pick Up Location"
+msgstr "Pick Up Localisation"
+
+msgid "Pick Up Route"
+msgstr "Pick Up Route"
+
+msgid "Picture"
+msgstr "Image"
+
+msgid "Place Of Work"
+msgstr "LIEU DE TRAVAIL"
+
+msgid "Plan Type"
+msgstr "Type de plan"
+
+msgid "Please Complete the following forms."
+msgstr "Veuillez compléter les formulaires suivants."
+
+msgid "Please complete the following forms."
+msgstr "Veuillez renseigner les éléments suivants"
+
+msgid "Please contact the district for assistance."
+msgstr "S’il vous plaît contactez le district."
+
+msgid "Please contact the district if you have questions regarding how to proceed."
+msgstr "Veuillez contacter le district si vous avez des questions concernant la procédure à suivre."
+
+msgid ""
+"Please provide information about any additional people you would like to have as emergency contacts for\r\n"
+"\t\t\t\t\tyour student(s)."
+msgstr ""
+"Veuillez fournir des informations sur toute personne supplémentaire que vous souhaiteriez avoir comme contact d'urgence\r\n"
+"Vos étudiants)."
+
+msgid "Please provide information about any parents of these students who live outside your household."
+msgstr "Veuillez fournir des informations sur les parents de ces élèves qui vivent en dehors de votre ménage."
+
+msgid "Please provide information about your student(s)."
+msgstr "Veuillez fournir des informations sur vos élèves."
+
+msgid "Please provide some information about the person you want considered as the primary parent of this family."
+msgstr "Veuillez fournir des informations sur la personne que vous souhaitez considérer comme le parent principal de cette famille."
+
+msgid "Please provide some information about yourself"
+msgstr "S’il vous plaît fournir des informations sur vous-même"
+
+msgid "Please provide some information about yourself."
+msgstr "S'il vous plaît fournir des informations sur vous-même."
+
+msgid "Please provide your email address, then select Next."
+msgstr "S’il vous plaît fournir votre adresse de courriel, puis cliquez sur Next."
+
+msgid "Please select a file"
+msgstr "Veuillez sélectionner un fichier"
+
+msgid "Please tell us where you live. If mail should be sent to a different address, provide that as well."
+msgstr "S’il vous plaît nous dire où vous habitez. Si le courrier doit être envoyé à une adresse différente, qui fournissent aussi bien."
+
+msgid "Please use that information to access the site."
+msgstr "S’il vous plaît utiliser cette information pour accéder au site."
+
+msgid "Please use the link in the email to proceed to the next step."
+msgstr "S'il vous plaît utilisez le lien dans l'email pour passer à l'étape suivante."
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Points Possible"
+msgstr "Points possibles"
+
+msgid "Points<br>Earned"
+msgstr "Points <br> Earned"
+
+msgid "Points<br>Possible"
+msgstr "Points <br> Possible"
+
+msgid "Policy"
+msgstr "Politique"
+
+msgid "Portal"
+msgstr "Portail"
+
+msgid "Portal Access"
+msgstr "Accès au portail"
+
+msgid "Portuguese"
+msgstr "Portugais"
+
+msgid "Possible"
+msgstr "Possible"
+
+msgid "Possible Duplicate Entry"
+msgstr "Éventuelle entrée en double"
+
+msgid "Possible Points"
+msgstr "Points possibles"
+
+msgid "Postal Code"
+msgstr "Code postal"
+
+msgid "Postal Code is required."
+msgstr "Le code postal est requis"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "Preferred Mailing Address"
+msgstr "Préféré adresse postale"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Preview Bell Schedule"
+msgstr "Aperçu de l'horaire de Bell"
+
+msgid "Preview:&nbsp;"
+msgstr "Aperçu:&nbsp;"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Primary Address"
+msgstr "Adresse principale"
+
+msgid "Primary Contact"
+msgstr "Contact primaire"
+
+msgid "Primary Counselor"
+msgstr "Résidence principale"
+
+msgid "Primary Graduation Plan"
+msgstr "Plan d&#39;Graduation primaire"
+
+msgid "Primary Language - Spoken"
+msgstr "Langue parlée à la maison"
+
+msgid "Primary Language - Written"
+msgstr "Langue principale - Écrit"
+
+msgid "Primary Object"
+msgstr "Objet primaire"
+
+msgid "Primary Parent"
+msgstr "Parent primaire"
+
+msgid "Primary Request"
+msgstr "Demande principale"
+
+msgid "Primary Residence"
+msgstr "Résidence principale"
+
+msgid "Primary Teacher"
+msgstr "Instituteur"
+
+msgid "Print Page"
+msgstr "Imprimer la page"
+
+msgid "Proceed to Paypal"
+msgstr "Procéder à Paypal"
+
+msgid "Proceed to Verification"
+msgstr "Procéder à la vérification"
+
+msgid "Processed"
+msgstr "Traité"
+
+msgid "Program"
+msgstr "Programme"
+
+msgid "Program Name"
+msgstr "Nom du programme"
+
+msgid "Programs and Services"
+msgstr "Programmes et Services"
+
+msgid "Progress Report"
+msgstr "Rapport d'étape"
+
+msgid "Provider Name"
+msgstr "Nom du fournisseur"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Province is required."
+msgstr "La province est nécessaire."
+
+msgid "Pulse"
+msgstr "Impulsion"
+
+msgid "Purchases"
+msgstr "Achats"
+
+msgid "Queries"
+msgstr "Des requêtes"
+
+msgid "R - Requesting Students"
+msgstr "R - Étudiants demandeurs"
+
+msgid "RESET ALL USERS TO DEFAULT"
+msgstr "RÉINITIALISER TOUS LES UTILISATEURS PAR DÉFAUT"
+
+msgid "Race"
+msgstr "Race"
+
+msgid "Race is required."
+msgstr "Race est nécessaire."
+
+msgid "Range"
+msgstr "Intervalle"
+
+msgid "Re-enter Email"
+msgstr "Saisissez votre email"
+
+msgid "Re-enter Password"
+msgstr "Confirmer le mot de passe"
+
+msgid "Rearranging the Cards"
+msgstr "Réarranger les cartes"
+
+msgid ""
+"Reason\n"
+"            Code"
+msgstr ""
+"Raison\n"
+"            Code"
+
+msgid "Reason Code"
+msgstr "Code motif"
+
+msgid "Recent Discipline Events"
+msgstr "Événements de discipline récents"
+
+msgid "Recent Discipline Events ({{recentDisciplineEvents.Count}})"
+msgstr "Événements de discipline récents ({{recentDisciplineEvents.Count}})"
+
+msgid "Recent Events"
+msgstr "Nouvelles vidéos"
+
+msgid "Recent Health Visits"
+msgstr "Visites de santé récentes"
+
+msgid "Recent Health Visits ({{recentHealthEvents.Count}})"
+msgstr "Visites de santé récentes ({{recentHealthEvents.Count}})"
+
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+msgid "Recent Visits"
+msgstr "Visites récentes"
+
+msgid "Recipient Change"
+msgstr "Changement de destinataire"
+
+msgid "Reduce the size of the list by using the"
+msgstr "Réduire la taille de la liste en utilisant le"
+
+msgid "Referral"
+msgstr "Recommandation"
+
+msgid "Referral Status"
+msgstr "Statut de référence"
+
+msgid "Register New Family"
+msgstr "Enregistrer Nouvelle Famille"
+
+msgid "Register New Family {{interpolatedString}}"
+msgstr "Register New Family {{interpolatedString}}"
+
+msgid "Registration is currently available only for students in the following grades:"
+msgstr "L'inscription est actuellement disponible uniquement pour les étudiants des grades suivants:"
+
+msgid "Regular<br>Absences"
+msgstr "Régulière<br>Absences"
+
+msgid "Related Object"
+msgstr "Objet associé"
+
+msgid "Relationship"
+msgstr "Degré de parenté"
+
+msgid "Relationship is required."
+msgstr "Relation est nécessaire."
+
+msgid "Relationship to student(s)"
+msgstr "Relation avec l'élève"
+
+msgid "Remaining"
+msgstr "Restant"
+
+msgid "Remaining ELL Requests"
+msgstr "Demandes ELL restantes"
+
+msgid "Remaining GAT Requests"
+msgstr "Requêtes GAT restantes"
+
+msgid "Remaining LEP Requests"
+msgstr "Demandes LEP restantes"
+
+msgid "Remaining Requests"
+msgstr "Demandes restantes"
+
+msgid "Remaining Seats"
+msgstr "Sièges restants"
+
+msgid "Remaining Sped Requests"
+msgstr "Requêtes Sped restantes"
+
+msgid "Remaining Students"
+msgstr "Étudiants restants"
+
+msgid "Remaining<br>Credits"
+msgstr "Restant<br>Crédits"
+
+msgid "Remove Student From Contact"
+msgstr "Supprimer l'étudiant du contact"
+
+msgid "Remove Student from Contact"
+msgstr "Retirez les étudiant de Contact"
+
+msgid "Report Card Grades"
+msgstr "Notes de la fiche de rapport"
+
+msgid "Report Card/<br>Transcript On Hold"
+msgstr "Fiche de rendement /<br>Transcription en attente"
+
+msgid "Report Card/Transcript On Hold"
+msgstr "Bulletin de notes / transcription en attente"
+
+msgid "Report Folder Settings"
+msgstr "Paramètres de dossier de rapport"
+
+msgid "Report Folders"
+msgstr "Dossiers de rapport"
+
+msgid "Report Options - {{reportName}}"
+msgstr "Options de rapport - {{reportName}}"
+
+msgid "Report Parameters"
+msgstr "Paramètres du rapport"
+
+msgid "Report Snapshots"
+msgstr "Captures instantanées de rapport"
+
+msgid "Report Title"
+msgstr "Titre du rapport"
+
+msgid "Report to Email"
+msgstr "Rapporter au courrier électronique"
+
+msgid "Reported To Police"
+msgstr "Signalés à la police"
+
+msgid "Reported by"
+msgstr "Rapporté par"
+
+msgid "Reporter"
+msgstr "Journaliste"
+
+msgid "Reports"
+msgstr "Rapports"
+
+msgid "Reports Distributed By Email Filter"
+msgstr "Rapports distribués par filtre de messagerie"
+
+msgid "Requested"
+msgstr "Demandée"
+
+msgid "Requested Credits"
+msgstr "Crédits demandés"
+
+msgid "Requested Term"
+msgstr "Terme demandé"
+
+msgid "Requested<br>Count"
+msgstr "A demandé<br>Comte"
+
+msgid "Requested<br>Credits"
+msgstr "Demandé <br> Crédits"
+
+msgid "Requested<br>Term"
+msgstr "Demandé <br> Terme"
+
+msgid "Required"
+msgstr "﻿Requis"
+
+msgid "Required Fields"
+msgstr "Champs obligatoires"
+
+msgid "Required e-Forms have not been submitted"
+msgstr "Les formulaires électroniques requis n'ont pas été soumis"
+
+msgid "Required field"
+msgstr "champs requis"
+
+msgid "Required fields"
+msgstr "Merci de mettre à jour votre navigateur"
+
+msgid "Required fields are marked with <span style=\"color:red;\">*</span> and cannot be left blank."
+msgstr "Les champs obligatoires sont marqués avec <span style=\"color:red;\">*</span> et ne peuvent pas être laissés en blanc."
+
+msgid "Requirement"
+msgstr "Exigences"
+
+msgid "Requirement Description"
+msgstr "Description de l'exigence"
+
+msgid "Requirement Name"
+msgstr "Nom de l'exigence"
+
+msgid "Requirements Available to be added"
+msgstr "Exigences disponibles pour être ajouté"
+
+msgid "Requirements Courses"
+msgstr "Conditions requises"
+
+msgid "Reset Your Password"
+msgstr "Réinitialisez votre mot de passe"
+
+msgid "Restore"
+msgstr "Restaurer"
+
+msgid "Restricted"
+msgstr "Diffusion restreinte"
+
+msgid "Resubmission Required"
+msgstr "Vos Formulaires Doivent Être Soumis à Nouveau"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "Results Legend"
+msgstr "Résultats Legend"
+
+msgid "Return"
+msgstr "Revenir"
+
+msgid "Return to List"
+msgstr "Retour à la liste"
+
+msgid "Returned"
+msgstr "Revenu"
+
+msgid "Revert to District Settings"
+msgstr "Revenir aux paramètres du district"
+
+msgid "Revised"
+msgstr "modifié"
+
+msgid "Roles Allowed to Create Instances of This Template"
+msgstr "Rôles autorisés à créer des instances de ce modèle"
+
+msgid "Rollover"
+msgstr "Rouler"
+
+msgid "Rollover Balance"
+msgstr "Solde de report"
+
+msgid "Room"
+msgstr "Chambre"
+
+msgid "Room Capacity"
+msgstr "Capacité de la salle"
+
+msgid "Room Name"
+msgstr "Nom de la salle"
+
+msgid "Rooms"
+msgstr "Pièces"
+
+msgid "Run Report"
+msgstr "Exécuter le rapport"
+
+msgid "Rx Number"
+msgstr "Nombre de Rx"
+
+msgid "S - Scheduled Students"
+msgstr "S - Étudiants inscrits"
+
+msgid "SAIS"
+msgstr "SAIS"
+
+msgid "SCREENINGS"
+msgstr "SÉANCES"
+
+msgid "SETTINGS"
+msgstr "RÉGLAGES"
+
+msgid "SSN"
+msgstr "SSN"
+
+msgid "STANDARDS-BASED"
+msgstr "BASÉ SUR DES NORMES"
+
+msgid "Same as Primary Residence"
+msgstr "Même que résidence principale"
+
+msgid "Sat"
+msgstr "Sam"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Saved"
+msgstr "Enregistré"
+
+msgid "Schedule Folder"
+msgstr "Dossier de planification"
+
+msgid "Scheduled"
+msgstr "Planifié"
+
+msgid "Scheduled GAT"
+msgstr "GAT prévu"
+
+msgid "Scheduled LEP"
+msgstr "LEP prévu"
+
+msgid "Scheduled Sped"
+msgstr "Sped prévue"
+
+msgid "Scheduled Students"
+msgstr "Étudiants planifiés"
+
+msgid "Scheduled<br>Credits"
+msgstr "À la demande<br>Crédits"
+
+msgid "Scheduling Group"
+msgstr "Groupe de planification"
+
+msgid "School"
+msgstr "École"
+
+msgid "School ({{schoolAnnouncements.length}})"
+msgstr "École ({{schoolAnnouncements.length}})"
+
+msgid "School Announcements"
+msgstr "Annonce école"
+
+msgid "School Authorized"
+msgstr "École autorisée"
+
+msgid "School Authorized<br>to Administer"
+msgstr "École autorisée<br>à administrer"
+
+msgid "School Life"
+msgstr "Vie scolaire"
+
+msgid "School May Administer"
+msgstr "École peut administrer"
+
+msgid "Scope"
+msgstr "Portée"
+
+msgid "Score"
+msgstr "But"
+
+msgid "Score is required"
+msgstr "Score est requis"
+
+msgid "Screened"
+msgstr "filtrées"
+
+msgid "Screening"
+msgstr "Présélection"
+
+msgid "Screenings"
+msgstr "Projections"
+
+msgid "Search Student"
+msgstr "Recherche étudiant"
+
+msgid "Search and Select"
+msgstr "Rechercher et sélectionner"
+
+msgid "Seating Chart"
+msgstr "Plan de table"
+
+msgid "Section"
+msgstr "Section"
+
+msgid "Section Name"
+msgstr "Nom de la section"
+
+msgid "Section Name:"
+msgstr "Nom de la section:"
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "Select"
+msgstr "Plus d'infos"
+
+msgid "Select All"
+msgstr "Sélectionner tout"
+
+msgid "Select Language"
+msgstr "Choisir la langue"
+
+msgid "Select Recipients"
+msgstr "Sélectionner les destinataires..."
+
+msgid "Select Student"
+msgstr "Sélectionnez étudiant"
+
+msgid "Select Tiles"
+msgstr "Sélectionnez les carreaux"
+
+msgid "Select a different year using the Year button in the top bar."
+msgstr "Sélectionnez une année différente à l’aide de la touche de l’année dans la barre supérieure."
+
+msgid "Select an underlined Lunch item to view the Daily Lunch menu."
+msgstr "Sélectionnez un élément de déjeuner souligné pour afficher le menu du midi tous les jours."
+
+msgid "Select an underlined account balance to view details"
+msgstr "Sélectionnez un solde de compte soulignés pour voir les détails"
+
+msgid "Select an underlined grade to see more details."
+msgstr "Sélectionnez un grade souligné pour voir plus de détails."
+
+msgid "Selected"
+msgstr "Choisi"
+
+msgid "Selected Roles"
+msgstr "Rôles sélectionnés"
+
+msgid "Selected Sites"
+msgstr "Sites choisis"
+
+msgid "Semester 1"
+msgstr "Semestre 1"
+
+msgid "Semester 2"
+msgstr "Semestre 2"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Send Email"
+msgstr "Envoyer E-mail"
+
+msgid "Send Mailings in"
+msgstr "Envoyer des Mailings"
+
+msgid "Sent"
+msgstr "Envoyé"
+
+msgid "Sent By"
+msgstr "Envoyée par"
+
+msgid "Sent To"
+msgstr "Envoyé à"
+
+msgid "Sent to"
+msgstr "Envoyé à"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "Series"
+msgstr "Série"
+
+msgid "Serv. Charge"
+msgstr "Frais de serv."
+
+msgid "Service"
+msgstr "Un service"
+
+msgid "Service Charge"
+msgstr "Taxe"
+
+msgid "Service Details"
+msgstr "Détails du service"
+
+msgid "Service Name"
+msgstr "Nom du service :"
+
+msgid "Set Notification Preferences"
+msgstr "Préférences de Notification de réglée"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Show"
+msgstr "Spectacle"
+
+msgid "Show All Codes"
+msgstr "Afficher tous les codes"
+
+msgid "Show All Graduation Plans"
+msgstr "Voir tous les plans Graduation"
+
+msgid "Show Courses Not In Graduation Plan"
+msgstr "Voir Cours pas dans plan Graduation"
+
+msgid "Show HS Transcript Only"
+msgstr "Afficher la transcription HS uniquement"
+
+msgid "Show Inactive"
+msgstr "Montrer inactif"
+
+msgid "Show Progress Cycle"
+msgstr "Afficher le cycle de progression"
+
+msgid "Show Progress Grades"
+msgstr "Voir la progression CE2"
+
+msgid "Show sections with no students enrolled"
+msgstr "Voir la sections avec aucun étudiants inscrits"
+
+msgid "Showing data for 30 days back and 30 days forward.<br>Use Filter to change."
+msgstr "Affichage de données pour 30 jours retour et 30 jours avant.<br>Utiliser le filtre pour changer."
+
+msgid "Siblings"
+msgstr "Frères et sœurs"
+
+msgid "Site"
+msgstr "Site"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Snack"
+msgstr "Goûter"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgid "Special"
+msgstr "Spécial"
+
+msgid "Special Mark"
+msgstr "marque spéciale"
+
+msgid "Special<br>Additional"
+msgstr "Spécial<br>Supplémentaires"
+
+msgid "Sped"
+msgstr "Sped"
+
+msgid "Sped Course"
+msgstr "Cours accéléré"
+
+msgid "Sped Requests"
+msgstr "Demandes accélérées"
+
+msgid "Sped Students / Seats"
+msgstr "Sped Students / Seats"
+
+msgid "Sped Students/Seats"
+msgstr "Sped Students / Seats"
+
+msgid "Sports Screening"
+msgstr "Dépistage sportif"
+
+msgid "Staff"
+msgstr "Personnel"
+
+msgid "Staff Name"
+msgstr "Nom du personnel"
+
+msgid "Standard"
+msgstr "Classique"
+
+msgid "Standard Score"
+msgstr "Note normalisée"
+
+msgid "Standards"
+msgstr "Normes"
+
+msgid ""
+"Standards\n"
+"                            Based Scores"
+msgstr ""
+"Normes\n"
+"                            Partitions basées"
+
+msgid "Standards Based Scores"
+msgstr "Les normes basées Scores"
+
+msgid "Standards-Based"
+msgstr "Axée sur les standards"
+
+msgid "Start"
+msgstr "Début"
+
+msgid "Start Date"
+msgstr "Date de début"
+
+msgid "Start Over"
+msgstr "Recommencer"
+
+msgid "Start Time"
+msgstr "Heure de début"
+
+msgid "Starts with"
+msgstr "Commence avec"
+
+msgid "State"
+msgstr "état"
+
+msgid "State is required."
+msgstr "L'état est nécessaire."
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Status&nbsp;"
+msgstr "Statut&nbsp;"
+
+msgid "Status&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+msgid "Step"
+msgstr "Étape"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Street Type"
+msgstr "Type de rue"
+
+msgid "Street Type is required."
+msgstr "Type de rue est nécessaire."
+
+msgid "Street is required."
+msgstr "Rue est nécessaire."
+
+msgid "Student"
+msgstr "Étudiant"
+
+msgid "Student #"
+msgstr "Étudiant(e)"
+
+msgid "Student Details"
+msgstr "Détails de l'étudiant"
+
+msgid "Student Documents"
+msgstr "Documents de l'élève"
+
+msgid "Student Filters"
+msgstr "Filtres d'étudiant"
+
+msgid "Student History"
+msgstr "Histoire des étudiants"
+
+msgid "Student Information"
+msgstr "Renseignements sur l'élève"
+
+msgid "Student Information (System)"
+msgstr "Student Information (Système)"
+
+msgid "Student Login"
+msgstr "Login étudiant"
+
+msgid "Student Name"
+msgstr "Nom de l'étudiant"
+
+msgid "Student Name:"
+msgstr "Nom d'étudiant:"
+
+msgid "Student Number"
+msgstr "Numéro d'étudiant"
+
+msgid "Student Number:"
+msgstr "Numéro d'étudiant:"
+
+msgid "Student Password"
+msgstr "Mot de passe étudiant"
+
+msgid "Student Portfolio"
+msgstr "Résumé de l'étudiant"
+
+msgid "Student Requests"
+msgstr "Demandes d'étudiants"
+
+msgid "Student Schedule"
+msgstr "Calendrier des étudiants"
+
+msgid "Student Summary"
+msgstr "Résumé de l'étudiant"
+
+msgid "Student With"
+msgstr "Étudiant avec"
+
+msgid "Student has no conditions on record"
+msgstr "L'étudiant n'a pas de conditions enregistrées"
+
+msgid "Student has no dietary restrictions on record"
+msgstr "L'étudiant n'a pas de restrictions alimentaires au dossier"
+
+msgid "Student has no doctors on record"
+msgstr "L'étudiant n'a pas de médecin enregistré"
+
+msgid "Student has no medications on record"
+msgstr "L'élève n'a pas de médicaments au dossier"
+
+msgid "Student in Focus"
+msgstr "Focus sur l'étudiant"
+
+msgid "Student is required."
+msgstr "Étudiant est requise."
+
+msgid "Student may leave with this person"
+msgstr "Étudiant peut quitter avec cette personne"
+
+msgid "Student {{$index + 1}}"
+msgstr "Student {{$index + 1}}"
+
+msgid "Students"
+msgstr "Étudiants"
+
+msgid ""
+"Students\n"
+"\t\t\tregistered using this process will be registered in the {{defaultYear.Description}} school year, which\n"
+"\t\t\tbegins on {{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+msgstr ""
+
+msgid ""
+"Students\n"
+"\t\t\tregistered using this process will be registered in the {{student360Year.Description}} school year, which\n"
+"\t\t\tbegins on {{student360Year.ORStartDate|date:'MM/dd/yy'}}."
+msgstr ""
+
+msgid "Students Associated with This Household"
+msgstr "Ménage à {{détail.Adresse}}"
+
+msgid "Students Less"
+msgstr "Étudiants moins"
+
+msgid "Students More"
+msgstr "Etudiants Plus"
+
+msgid ""
+"Students registered using this process will\n"
+"\t\t\tbe registered in the upcoming {{defaultYear.Description}} school year, which begins on\n"
+"\t\t\t{{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+msgstr ""
+
+msgid ""
+"Students registered using this process will\n"
+"\t\t\tbe registered in the upcoming {{student360Year.Description}} school year, which begins on\n"
+"\t\t\t{{student360Year.ORStartDate|date:'MM/dd/yy'}}."
+msgstr ""
+
+msgid ""
+"Students registered using this process will be registered in the\n"
+"\t\t\tschool year currently in progress: {{defaultYear.Description}}."
+msgstr ""
+
+msgid ""
+"Students registered using this process will be registered in the\n"
+"\t\t\tschool year currently in progress: {{student360Year.Description}}."
+msgstr ""
+
+msgid "Students registered using this process will be registered in the school year currently in progress: {{defaultYear.Description}}."
+msgstr "Les étudiants inscrits à l’aide de ce processus seront enregistrés durant l’année scolaire en cours : {{defaultYear.Description}}."
+
+msgid "Students registered using this process will be registered in the school year currently in progress: {{orDefaultYear.Description}}."
+msgstr "Les étudiants inscrits à l'aide de ce processus sera enregistré au cours de l'année scolaire en cours: {{orDefaultYear.Description}}."
+
+msgid "Students registered using this process will be registered in the upcoming {{defaultYear.Description}} school year, which begins on {{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits en utilisant ce processus seront enregistrés dans la prochaine {{defaultYear.Description}} année scolaire qui commence le {{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+
+msgid "Students registered using this process will be registered in the upcoming {{defaultYear.Description}} school year, which begins on {{defaultYear.StartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits à l’aide de ce processus seront enregistrés durant l’année scolaire à venir {{defaultYear.Description}}, qui commence le {{defaultYear.StartDate|date:'MM/dd/yy'}}."
+
+msgid "Students registered using this process will be registered in the upcoming {{orDefaultYear.Description}} school year, which begins on {{orDefaultYear.StartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits à l'aide de ce processus sera enregistré dans la prochaine {{orDefaultYear.Description}} année scolaire qui commence le {{orDefaultYear.StartDate|date:'MM/dd/yy'}}."
+
+msgid "Students registered using this process will be registered in the {{defaultYear.Description}} school year, which begins on {{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits à l'aide de ce processus seront enregistrés dans le {{defaultYear.Description}} année scolaire qui commence le {{defaultYear.ORStartDate|date:'MM/dd/yy'}}."
+
+msgid "Students registered using this process will be registered in the {{defaultYear.Description}} school year, which begins on {{defaultYear.StartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits à l’aide de ce processus seront enregistrés durant l’année scolaire de {{defaultYear.Description}}, qui commence le {{defaultYear.StartDate|date:'MM/dd/yy'}}."
+
+msgid "Students registered using this process will be registered in the {{orDefaultYear.Description}} school year, which begins on {{orDefaultYear.StartDate|date:'MM/dd/yy'}}."
+msgstr "Les étudiants inscrits à l'aide de ce processus sera enregistré dans le {{orDefaultYear.Description}} l'année scolaire, qui commence sur {{orDefaultYear.StartDate|date:'MM/dd/yy'}}."
+
+msgid "Students/Seats"
+msgstr "Etudiants / Sièges"
+
+msgid "Student{{V10 ? '(s)' : ''}}"
+msgstr "Student{{V10 ? '(s)' : ''}}"
+
+msgid "Subject"
+msgstr "Objet"
+
+msgid "Subject Area"
+msgstr "Domaine"
+
+msgid "Subject Area / Credit Code / Course"
+msgstr "Matière / de crédit Code / Course"
+
+msgid "Subject Areas"
+msgstr "Domaines"
+
+msgid "SubjectCode"
+msgstr "SubjectCode"
+
+msgid "Submission Processing"
+msgstr "Traitement de la soumission"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Submit Forms"
+msgstr "Soumettre les formulaires"
+
+msgid "Submit Forms?"
+msgstr "Soumettre les formulaires ?"
+
+msgid "Submitted"
+msgstr "Soumis"
+
+msgid "Submitted - Awaiting Approval"
+msgstr "Soumis – en attente d'approbation"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "Summary vies show only a limited amount of information, usually just counts or totals, so they take up less space, allowing more cards to be seen at once."
+msgstr "Les récapitulatifs ne montrent qu'un nombre limité d'informations, généralement des comptes ou des totaux, et occupent donc moins de place, ce qui permet de voir simultanément plus de cartes."
+
+msgid "Sun"
+msgstr "Soleil"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Switch Scheduling Folder"
+msgstr "Changer de dossier de planification"
+
+msgid "Syntax"
+msgstr "Syntaxe"
+
+msgid "T"
+msgstr "T"
+
+msgid "TODAY"
+msgstr "AUJOURD'HUI"
+
+msgid "TRADITIONAL"
+msgstr "TRADITIONNEL"
+
+msgid "Taken"
+msgstr "Pris"
+
+msgid "Tardies"
+msgstr "Retards"
+
+msgid "Tardy"
+msgstr "Tardif"
+
+msgid "Teacher"
+msgstr "Enseignant"
+
+msgid ""
+"Teacher\r\n"
+"                                                        Profile"
+msgstr ""
+"Prof\r\n"
+"                                                        Profil"
+
+msgid "Teacher Name"
+msgstr "Nom de l'enseignant"
+
+msgid "Teacher Profile"
+msgstr "Profil de l'enseignant"
+
+msgid "Teacher:"
+msgstr "Enseignant"
+
+msgid "Teachers"
+msgstr "Enseignants"
+
+msgid "Team"
+msgstr "Équipe"
+
+msgid "Team Name"
+msgstr "Nom de l'équipe"
+
+msgid "TeamName"
+msgstr "Nom de l'équipe"
+
+msgid "Telephone"
+msgstr "Téléphone"
+
+msgid "Template"
+msgstr "Modèle"
+
+msgid "Template Name"
+msgstr "Nom du modèle"
+
+msgid "Templates from Classic"
+msgstr "Modèles de Classic"
+
+msgid "Term"
+msgstr "Terme"
+
+msgid "Term Details -{{longDescription}}"
+msgstr "Détails du terme -{{longDescription}}"
+
+msgid "Term Type"
+msgstr "Type de terme"
+
+msgid "Term:"
+msgstr "Terme:"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Thank you for using Online Registration."
+msgstr "Merci d'utiliser l'enregistrement en ligne."
+
+msgid "The Perfect attendance option cannot be used until a default attendance code has been defined by the school or district."
+msgstr "L'option de présence parfaite ne peut pas être utilisée tant qu'un code de présence par défaut n'a pas été défini par l'école ou le district."
+
+msgid "The cards display in two columns. The Column Break indicator can be moved up or down to define where the second column begins - rows above the Column Break indicator will show in the first column, rows below it will show in the second column."
+msgstr "Les cartes sont affichées sur deux colonnes. L'indicateur de rupture de colonne peut être déplacé vers le haut ou le bas pour définir le point de départ de la deuxième colonne. Les lignes situées au-dessus de l'indicateur de rupture de colonne s'affichent dans la première colonne, les lignes inférieures s'affichent dans la deuxième colonne."
+
+msgid "The current school year"
+msgstr "L’année scolaire en cours"
+
+msgid "The different ares that display information on the Student Summary page are called \"cards\". Cards can be shown in summary view, detailed view, or turned off. (Some cards do not have a summary option based on the type of information they show.)"
+msgstr "Les différentes zones qui affichent des informations sur la page Résumé étudiant sont appelées \"cartes\". Les cartes peuvent être affichées en vue de synthèse, en vue détaillée ou désactivées. (Certaines cartes n'ont pas d'option de résumé basée sur le type d'information qu'elles montrent.)"
+
+msgid "The forms will now be reviewed by the school district.  If any changes need to be made, you will receive an email letting you know.  Otherwise, you will receive an email telling you the forms have been accepted and the process is complete."
+msgstr "Les formulaires seront maintenant examinés par le district scolaire.  Si toutes les modifications doivent être apportés, vous recevrez un email vous en informant.  Dans le cas contraire, vous recevrez un email vous indiquant les formulaires ont été acceptées et le processus est terminé."
+
+msgid "The information already provided will appear on some of the forms and can be edited as needed."
+msgstr "Les informations déjà fournies apparaîtront sur certaines formes et peuvent être modifiées selon les besoins."
+
+msgid "The information entered for the following students:"
+msgstr "Les informations saisies pour les étudiants suivants :"
+
+msgid "The information entered is very similar to an existing record in our system."
+msgstr "Les informations saisies sont très similaires à un enregistrement existant dans notre système."
+
+msgid "The new address has been entered for them as well."
+msgstr "La nouvelle adresse a été saisi pour eux aussi."
+
+msgid "The new student will be added using the Online Registration screens."
+msgstr "Le nouvel élève est ajouté en utilisant les écrans d’inscription en ligne."
+
+msgid "The order in which the cards are displayed can be changed by dragging rows up and down in the list."
+msgstr "L'ordre dans lequel les cartes sont affichées peut être modifié en faisant glisser les lignes vers le haut et le bas de la liste."
+
+msgid "The people on this form are parents or legal guardians living in this household."
+msgstr "Les personnes figurant sur ce formulaire sont des parents ou des tuteurs légaux vivant dans ce ménage."
+
+msgid "The people on this form are parents or legal guardians living in this household.<br>Other parents not in this household should be on the Non-resident Parents form."
+msgstr "Les gens sur ce formulaire sont les parents ou les tuteurs légaux qui vivent dans ce ménage. <br> D'autres parents ne sont pas dans ce ménage devraient être sur le formulaire de parents non-résidents."
+
+msgid "The query being imported contains the following fields that do not exist in the database:"
+msgstr "La requête en cours d'importation contient les champs suivants qui n'existent pas dans la base de données:"
+
+msgid "The route for using SAML assertions is your base route followed by"
+msgstr "L’itinéraire d’utilisation des assertions SAML est votre itinéraire de base suivi de"
+
+msgid "The route for your SAML metadata is your base route followed by"
+msgstr "L’itinéraire pour vos métadonnées SAML est votre itinéraire de base suivi de"
+
+msgid "The system was not able to send an email to your email address. Please contact the district for further instructions."
+msgstr "Le système n'a pas pu envoyer de courrier électronique à votre adresse électronique. Veuillez contacter le district pour plus d'instructions."
+
+msgid "The top image on the right shows what the Attendance card looks like in summary view and the bottom example shows it in detailed view."
+msgstr "L'image du haut à droite montre l'aspect de la carte de présence en mode récapitulatif et l'exemple du bas en mode détaillé."
+
+msgid "The upcoming school year"
+msgstr "L’année scolaire à venir"
+
+msgid "The {{portalName}} page is not available for {{student.FirstName}} {{student.LastName}}."
+msgstr "le {{portalName}} page n'est pas disponible pour {{student.FirstName}} {{student.LastName}}."
+
+msgid "There are unsaved changes on this page."
+msgstr "Il sont des modifications non enregistrées sur cette page."
+
+msgid "These are needed in order to use the Student Notes option."
+msgstr "Celles-ci sont nécessaires pour utiliser l'option Notes de l'étudiant."
+
+msgid "These fields will need to be removed or corrected before results can be displayed."
+msgstr "Ces champs devront être supprimés ou corrigés avant que les résultats ne puissent être affichés."
+
+msgid "These settings apply to all students in the family, however each school"
+msgstr "Ces paramètres s’appliquent à tous les élèves de la famille, mais chaque école"
+
+msgid "These settings apply to all students in the family, however each school <br>decides individually whether or not to offer each notification."
+msgstr "Ces paramètres s'appliquent à tous les étudiants appartenant à la famille, mais chaque école<br>décide individuellement de chaque notification d'offrir ou non."
+
+msgid "This Term"
+msgstr "Ce terme"
+
+msgid "This contact already exists"
+msgstr "Ce contact existe déjà"
+
+msgid "This contact has been associated with each student."
+msgstr "Ce contact a été associé à chaque élève."
+
+msgid "This email has not been sent."
+msgstr "Cet email n'a pas été envoyé."
+
+msgid "This form must have information for at least one student."
+msgstr "Ce formulaire doit disposer d’informations au moins un étudiant."
+
+msgid "This household and all of its data will be deleted"
+msgstr "Ce ménage et toutes ses données seront supprimés"
+
+msgid "This household and all of its data will be deleted."
+msgstr "Ce ménage et toutes ses données seront supprimées."
+
+msgid "This means none of the students in the family are currently attending any of the schools in the district and none of the students have attended any of the schools in the district in the past."
+msgstr "Cela signifie qu'aucune des étudiants dans la famille assistent actuellement à aucune des écoles dans le district et aucun des élèves n'ont participé à aucune de ces écoles dans le district par le passé."
+
+msgid "This option is intended for use by families who are"
+msgstr "Cette option est destinée à être utilisée par les familles qui"
+
+msgid "This option is intended for use by families who are <b>brand new</b> to the district."
+msgstr "Cette option est destinée à être utilisée par des familles qui sont nouveaux sur le district."
+
+msgid "This option is intended for use by families who are <b>new</b> to the district."
+msgstr "Cette option est destinée aux familles <b> nouvelles </ b> du district."
+
+msgid "This option is not available because there is no email"
+msgstr "Cette option n'est pas disponible car il n'y a pas d'email"
+
+msgid "This option is not available because there is no email<br>address on file for you. Please contact the school<br>and provide the neccesary information."
+msgstr "Cette option ne est pas disponible parce qu&#39;il n&#39;y a pas d&#39;email <br> adresse au dossier pour vous. Se il vous plaît contacter l&#39;école <br> et fournir les informations neccesary."
+
+msgid "This school does not offer Attendance notification"
+msgstr "Cette école n'offre pas de notification de présence"
+
+msgid "This school does not offer Behavior notification"
+msgstr "Cette école n'offre pas de notification de comportement"
+
+msgid "This school does not offer Discipline notification"
+msgstr "Cette école n'offre pas de notification de la Discipline"
+
+msgid "This school does not offer Grades notification"
+msgstr "Cette école n'offre pas de notification de Grades"
+
+msgid "This school does not offer attendance phone notifications"
+msgstr "Cette école ne propose pas de notifications participation de téléphone"
+
+msgid "This will delete all fields from the filter."
+msgstr "Cela supprimera tous les champs du filtre."
+
+msgid "This will delete the information for"
+msgstr "Cela supprimera les informations pour"
+
+msgid "This will delete the information for {{student.FirstName}} {{student.LastName}}"
+msgstr "Cela supprimera les informations pour {{student.FirstName}} {{student.LastName}}"
+
+msgid "This will delete the topic"
+msgstr "Cela supprimera le sujet"
+
+msgid "This will mark the students in"
+msgstr "Cela marquera les étudiants en"
+
+msgid "This will undo every change made to this form,"
+msgstr "Cela annulera tous les changements apportés à ce formulaire,"
+
+msgid "Thu"
+msgstr "jeu"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Time In"
+msgstr "HORAIRE D&apos;ENTRÉE"
+
+msgid "Time Out"
+msgstr "Session expirée"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "To"
+msgstr "À"
+
+msgid "To add or Edit Requests for a row, click the + in the More column to expand the row"
+msgstr "Pour ajouter ou modifier des requêtes pour une ligne, cliquez sur le signe + dans la colonne la plus à agrandir la ligne"
+
+msgid ""
+"To change these preferences, select Set Notification Preferences from\r\n"
+"                    the options under the User icon:"
+msgstr ""
+"Pour modifier ces préférences, sélectionnez Définir les préférences de notification à partir de\r\n"
+"                    les options sous l'icône utilisateur:"
+
+msgid "To change these preferences, select Set Notification Preferences from the options under the User icon:"
+msgstr "Pour modifier ces préférences, sélectionnez Définir les préférences de notification parmi les options sous l'icône Utilisateur:"
+
+msgid "To change these preferences, select Set Notification Preferences from the options under the User icon: <img style=\"height:34px;width:34px;margin-top:-3px;\" src=\"../Images/student black.png\">"
+msgstr "Pour modifier ces préférences, sélectionnez Définir les préférences de notification des options sous l'icône de l'utilisateur: <img style=\"height:34px;width:34px;margin-top:-3px;\" src=\"../Images/student black.png\">"
+
+msgid ""
+"To check the signature, it first looks at the issuer to find a matching issuer in the registered SAML Identity Providers.\n"
+"        It then checks validates your SAML response against the certificate in metadata or, failing that, provided here.\n"
+"        If it is valid, it will attempt to find a user with the corresponding member ID and user type.\n"
+"        If it finds one, it will redirect you to the TylerSIS application authenticated as that user."
+msgstr ""
+"Pour vérifier la signature, il faut d'abord que l'émetteur trouve un émetteur correspondant dans les fournisseurs d'identité SAML enregistrés.\n"
+"        Il vérifie ensuite que votre réponse SAML est validée par rapport au certificat en métadonnées ou, à défaut, fournie ici.\n"
+"        S'il est valide, il tentera de trouver un utilisateur avec l'ID de membre et le type d'utilisateur correspondants.\n"
+"        S'il en trouve un, il vous redirigera vers l'application TylerSIS authentifiée en tant qu'utilisateur."
+
+msgid "To use SAML sign-on, you must send an"
+msgstr "Pour utiliser la connexion SAML, vous devez envoyer une"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Today's Attendance"
+msgstr "La présence d'aujourd'hui"
+
+msgid "Today's Schedule"
+msgstr "Calendrier du jour"
+
+msgid "Topic"
+msgstr "Sujet"
+
+msgid "Total"
+msgstr "Total"
+
+msgid ""
+"Total\n"
+"                Charges"
+msgstr ""
+"Total\n"
+"                Des charges"
+
+msgid "Total Balance"
+msgstr "Total du bilan"
+
+msgid "Total Charges"
+msgstr "Charges totales"
+
+msgid "Total Deposit"
+msgstr "Total des dépôts"
+
+msgid "Total Purchases"
+msgstr "Montant total des achats"
+
+msgid "Total Reports"
+msgstr "Nombre total de rapports"
+
+msgid "Tracking Group"
+msgstr "Groupe suivi"
+
+msgid "Traditional"
+msgstr "Traditionnel"
+
+msgid "Trans. Total"
+msgstr "Total de trans."
+
+msgid "Transaction"
+msgstr "Transaction"
+
+msgid ""
+"Transaction\n"
+"                            Type"
+msgstr ""
+"Transaction\n"
+"                            Type"
+
+msgid ""
+"Transaction\r\n"
+"                  Type"
+msgstr ""
+"Transaction\r\n"
+"                  Type"
+
+msgid "Transaction History"
+msgstr "Historique des transactions"
+
+msgid "Transaction Total"
+msgstr "Total de la transaction :"
+
+msgid "Transaction Type"
+msgstr "Type de Transaction"
+
+msgid "Transferred From"
+msgstr "Transféré de"
+
+msgid "Transferred From:"
+msgstr "Transféré à partir de:"
+
+msgid "Transportation"
+msgstr "Transport"
+
+msgid "TravisTranslateTEst"
+msgstr "TravisTranslateTEst"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Tyler Pulse"
+msgstr "Tyler Pulse"
+
+msgid "Tyler SIS"
+msgstr "Tyler SIS"
+
+msgid "Type"
+msgstr "Manufacturier"
+
+msgid "UPCOMING/MISSING"
+msgstr "À VENIR/MANQUANT"
+
+msgid "Unapplied Payments"
+msgstr "Paiements non imputés"
+
+msgid "Unassigned Meeting Patterns"
+msgstr "Modèles de réunion non attribués"
+
+msgid "Unlisted"
+msgstr "Non répertorié"
+
+msgid "Unlock Section"
+msgstr "Débloquez Section"
+
+msgid "Unweighted GPA:"
+msgstr "GPA non pondérée:"
+
+msgid "Upcoming Events"
+msgstr "évènements à venir"
+
+msgid "Upcoming/Missing"
+msgstr "À venir/manquant"
+
+msgid "Update Household Data"
+msgstr "Mise à jour des données"
+
+msgid "Update Roster"
+msgstr "Mettre à jour la liste"
+
+msgid "Uploaded Date"
+msgstr "Date de téléchargement"
+
+msgid "Use % to perform wildcard search."
+msgstr "Utiliser % pour effectuer la recherche par caractères génériques."
+
+msgid "Use the Add Contact button in the bottom bar to add more contacts."
+msgstr "Utilisez le bouton Ajouter un contact dans la barre inférieure pour ajouter plus de contacts."
+
+msgid "Use the Add Household button in the bottom bar to add more parents."
+msgstr "Utilisez le bouton Ajouter un ménage dans la barre inférieure pour ajouter plus de parents."
+
+msgid "Use the fields in the More area for the contact if you want to remove a student from the contact or change student-specific settings for this contact."
+msgstr "Utilisez les champs de la zone Plus du contact si vous souhaitez supprimer un élève du contact ou modifier les paramètres spécifiques à l'élève pour ce contact."
+
+msgid ""
+"Used\n"
+"                                            for Grading"
+msgstr ""
+"Utilisé\n"
+"                                            pour le classement"
+
+msgid ""
+"Used\n"
+"                                            for Marking Attendance"
+msgstr ""
+"Utilisé\n"
+"                                            pour assister à la correction"
+
+msgid ""
+"Used\n"
+"                      for Grading"
+msgstr ""
+"Utilisé\n"
+"                      pour le classement"
+
+msgid ""
+"Used\n"
+"                      for Marking Attendance"
+msgstr ""
+"Utilisé\n"
+"                      pour assister à la correction"
+
+msgid "Used for Grading"
+msgstr "Utilisées pour le tri"
+
+msgid "Used for Marking Attendance"
+msgstr "Utilisés pour le marquage de présence"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Username:"
+msgstr "Username:"
+
+msgid "Utilities and Settings"
+msgstr "Utilitaires et paramètres"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "View Attachments"
+msgstr "Voir les pièces jointes"
+
+msgid "View Non-Student-Related Students"
+msgstr "Voir les étudiants non-étudiants"
+
+msgid "View Recipients"
+msgstr "Afficher les destinataires"
+
+msgid "View the Notification Preferences page for each student to see which"
+msgstr "Consultez la page Préférences de notification pour chaque élève pour voir laquelle."
+
+msgid "View the Notification Preferences page for each student to see which <br>notifications their school provides."
+msgstr "Voir la page de préférences de Notification pour chaque élève Voir qui<br>fournit des notifications de leur école."
+
+msgid "View:"
+msgstr "Vue:"
+
+msgid "Visible to"
+msgstr "Visible à"
+
+msgid "Visible to Parents/Students"
+msgstr "Visible aux parents / étudiants"
+
+msgid "Visit Reason"
+msgstr "Raison de la visite"
+
+msgid "WARNING"
+msgstr "ATTENTION"
+
+msgid "WEEK"
+msgstr "LA SEMAINE"
+
+msgid "Want Assertions Signed"
+msgstr "Want Assertions Signé"
+
+msgid "Wed"
+msgstr "mer"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Weight (pounds)"
+msgstr "Poids (livres)"
+
+msgid "Weighted GPA:"
+msgstr "GPA pondérée:"
+
+msgid "Welcome!"
+msgstr "Bienvenue!"
+
+msgid "When a summary card is being shown, selecting it will display the information that would have been shown on the detailed card, so regardless of which way the card is being shown, the detailed information is easily accessible."
+msgstr "Lorsqu'une carte récapitulative est affichée, sa sélection affichera les informations qui auraient été affichées sur la carte détaillée. Ainsi, quelle que soit la manière dont la carte est affichée, les informations détaillées sont facilement accessibles."
+
+msgid ""
+"When student is\r\n"
+"                absent, call:"
+msgstr ""
+"Quand l'étudiant est\r\n"
+"                absent, appelez:"
+
+msgid "When student is absent, call:"
+msgstr "Lorsque l'élève est absent, appelez :"
+
+msgid "When you are ready, submit the forms to the schools"
+msgstr "Lorsque vous êtes prêt, soumettre que les formulaires pour les écoles->"
+
+msgid "When you are satisfied with the information on all of the forms, select the Next button to proceed."
+msgstr "Lorsque vous êtes satisfait de l'information sur tous les formulaires, sélectionnez le bouton Suivant pour continuer."
+
+msgid "Withdrawal Date"
+msgstr "Date de la suppression"
+
+msgid "Withdrawn as of {{studentEnrollment.WithdrawalDate|date:'MM/dd/yy'}}"
+msgstr "Retiré comme de {{studentEnrollment.WithdrawalDate|date: « MM/dd/yy »}}"
+
+msgid ""
+"Work\r\n"
+"                                                        Phone"
+msgstr ""
+"Travail\r\n"
+"                                                        Téléphone"
+
+msgid ""
+"Work\r\n"
+"                                                    Phone"
+msgstr ""
+"Travail\r\n"
+"                                                    Téléphone"
+
+msgid "Work Phone"
+msgstr "Téléphone professionnel"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Year-To-Date"
+msgstr "Année à ce jour"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "You are not the primary contact for this student"
+msgstr "Vous n'êtes pas le contact principal pour cet étudiant"
+
+msgid "You are not the primary contact for this student."
+msgstr "Vous n'êtes pas le contact principal pour cet étudiant."
+
+msgid "You are not the primary parent of this student"
+msgstr "Vous n'êtes pas le parent principal de cet étudiant"
+
+msgid "You can select maximum {{onlineRegistrationStudent.StudentMaxRace}} field(s)."
+msgstr "Vous pouvez sélectionner un maximum {{onlineRegistrationStudent.StudentMaxRace}} domaine (s)."
+
+msgid "You can select maximum {{parentPortalDataUpdateStudent.StudentMaxRace}} field(s)."
+msgstr "Vous pouvez sélectionner les champs maximum {{parentPortalDataUpdateStudent.StudentMaxRace}}."
+
+msgid "You do not have permission to view Health/Medical data for this student."
+msgstr "Vous n'êtes pas autorisé à afficher les données médicales / de santé de cet élève."
+
+msgid "You do not have permission to view Student Information data for  this student"
+msgstr "Vous n'êtes pas autorisé à afficher les données d'informations sur l'étudiant pour cet étudiant"
+
+msgid "You have been returned to the Student Summary page."
+msgstr "Vous avez été renvoyé à la page Résumé de l'étudiant."
+
+msgid "You have chosen to deposit a total of {{totalDeposit|number:'1.2-2'}} dollars"
+msgstr "Vous avez choisi de déposer un total de {{totalDeposit|number:'1.2-2'}} dollars"
+
+msgid "You have chosen to deposit a total of {{totalDeposit|number:2}} dollars"
+msgstr "Vous avez choisi de déposer un total de dollars {{totalDeposit|number:2}}"
+
+msgid "You may choose what information is shown on the Home page by using the Settings panel, accessed by selecting the Settings button in the upper right corner of the screen:"
+msgstr "Vous pouvez choisir les informations affichées sur la page d'accueil à l'aide du panneau Paramètres, accessible en sélectionnant le bouton Paramètres dans le coin supérieur droit de l'écran:"
+
+msgid "You will be logged out in {{countdown}} second(s)."
+msgstr "Vous serez connecté {{compte à rebours}} seconde (s)."
+
+msgid "You will not be able to add students beyond this step."
+msgstr "Vous ne pourrez pas ajouter d’élèves au-delà de cette étape."
+
+msgid "Your account has been established and your email address will be your user name."
+msgstr "Votre compte a été créé et votre adresse e-mail sera votre nom d'utilisateur."
+
+msgid "Your account has been established and your login information is as follows:"
+msgstr "Votre compte a été établi et vos informations de connexion sont la suivante :"
+
+msgid "Your email address is also used as your User Name, so changes made here will also affect the name you use to log in."
+msgstr "Votre adresse e-mail sert également votre nom d'utilisateur, afin que les modifications apportées ici va aussi affecter le nom que vous utilisez pour vous connecter."
+
+msgid "Your forms have been successfully submitted."
+msgstr "Vos formulaires ont été soumis avec succès."
+
+msgid "Your forms were rejected and you should have received an email detailing what needs to be changed."
+msgstr "Vos formulaires ont été rejetées et vous devriez avoir reçu un e-mail précisant ce qui doit être changé."
+
+msgid "Your information has been submitted."
+msgstr "Vos informations ont été transmises."
+
+msgid "Your relationship to the student(s)"
+msgstr "Votre relation avec le ou les étudiants"
+
+msgid "Your relationship to the students"
+msgstr "Votre relation aux élèves"
+
+msgid "ZIP Code"
+msgstr "Code postal"
+
+msgid "ZIP Code 2 is required."
+msgstr "Code postal 2 est nécessaire."
+
+msgid "ZIP Code is required."
+msgstr "Code postal est requis."
+
+msgid "Zip"
+msgstr "Code postal"
+
+msgid "Zip Code"
+msgstr "Code postal"
+
+msgid "Zip Code 2 is required."
+msgstr "Code postal 2 est nécessaire."
+
+msgid "[Credits] Course"
+msgstr "[Crédits] Cours"
+
+msgid "[No file attached]"
+msgstr "Aucun fichier attach&eacute; !"
+
+msgid "address on file for you. Please contact the school"
+msgstr "adresse au dossier pour vous. S'il vous plaît contacter l'école"
+
+msgid ""
+"and\r\n"
+"        complete this transaction select Proceed to PayPal. If not, select Go Back to Previous Screen."
+msgstr ""
+"et\r\n"
+"        terminer cette transaction, sélectionnez Passer à PayPal. Sinon, sélectionnez Revenir à l'écran précédent."
+
+msgid "and Section"
+msgstr "et la section"
+
+msgid "and all associated content below it."
+msgstr "et tout le contenu associé en dessous."
+
+msgid ""
+"and complete\r\n"
+"        this transaction select Pay. If not, select Go Back to Previous Screen."
+msgstr ""
+"et complète\r\n"
+"        cette transaction, sélectionnez Payer. Sinon, sélectionnez Revenir à l'écran précédent."
+
+msgid "and provide the neccesary information."
+msgstr "et fournir les informations nécessaires."
+
+msgid "as Bold"
+msgstr "en gras"
+
+msgid "be marked as BCC."
+msgstr "être marqué comme BCC."
+
+msgid "because attendance codes already exist for students in this team."
+msgstr "parce que des codes de présence existent déjà pour les étudiants de cette équipe."
+
+msgid "but not saved."
+msgstr "mais pas sauvé."
+
+msgid ""
+"decides\r\n"
+"                        individually whether or not to offer each notification."
+msgstr ""
+"décide\r\n"
+"                        individuellement s'il faut ou non offrir chaque notification."
+
+msgid "decides individually whether or not to offer each notification."
+msgstr "décide individuellement d’offrir ou non chaque notification."
+
+msgid "enter it below"
+msgstr "saisir ci-dessous"
+
+msgid "from"
+msgstr "de"
+
+msgid ""
+"in the\r\n"
+"        following folders:"
+msgstr ""
+"dans le\r\n"
+"        dossiers suivants:"
+
+msgid "including those which have been submitted but not yet approved."
+msgstr "y compris celles qui ont été présentés mais pas encore approuvé."
+
+msgid "including those which have been submitted but not yet approved.."
+msgstr "y compris celles qui ont été présentés mais pas encore accepté..."
+
+msgid "is very similar to existing records in our system."
+msgstr "est très semblable à des enregistrements existants dans notre système."
+
+msgid ""
+"notifications\r\n"
+"                        their school provides."
+msgstr ""
+"notifications\r\n"
+"                        leur école fournit."
+
+msgid "notifications their school provides."
+msgstr "notifications fournies par leur école."
+
+msgid "of"
+msgstr "de"
+
+msgid "on an assignment"
+msgstr "sur une cession"
+
+msgid "or"
+msgstr "ou"
+
+msgid "other's email addresses, when more than one"
+msgstr "Les adresses e-mail de l'autre, lorsque plusieurs"
+
+msgid "parent/contact recipient is selected, they can only"
+msgstr "destinataire parent / contact est sélectionné, ils ne peuvent"
+
+msgid "regardless of when the changes were made."
+msgstr "peu importe où les modifications ont été apportées."
+
+msgid "select how you want to view the available courses"
+msgstr "choisir la façon dont vous souhaitez afficher les cours disponibles"
+
+msgid "so you can use it from now on when you want to access the parent portal. If you need to exit this registration process for some reason before completion, log in using the information above and you will be able to complete the process."
+msgstr "afin que vous puissiez l'utiliser à partir de maintenant lorsque vous souhaitez accéder au portail parent. Si vous devez quitter ce processus d'enregistrement pour une raison quelconque avant la fin, connectez-vous à l'aide des informations ci-dessus et vous pourrez compléter le processus."
+
+msgid "to Administer"
+msgstr "administrer"
+
+msgid ""
+"to the SAML route.\n"
+"        As it currently exists, TylerSIS SAML does not support SP initiated SAML processes.\n"
+"        The SAML response must be signed with the private key corresponding to the public certificate provided for the response's issuer.\n"
+"        This certificate can be provided in the metadata of the issuer. Alternatively, it can be supplied here.\n"
+"        The SAML response must also contain one of the following sets of attributes:"
+msgstr ""
+"à la route SAML.\n"
+"        Dans la version actuelle, TylerSIS SAML ne prend pas en charge les processus SAML initiés par SP.\n"
+"        La réponse SAML doit être signée avec la clé privée correspondant au certificat public fourni pour l'émetteur de la réponse.\n"
+"        Ce certificat peut être fourni dans les métadonnées de l'émetteur. Alternativement, il peut être fourni ici.\n"
+"        La réponse SAML doit également contenir l'un des ensembles d'attributs suivants:"
+
+msgid "to the district."
+msgstr "au quartier."
+
+msgid "which begins on {{year.StartDate|date:'MM/dd/yy'}}"
+msgstr "qui commence le {{année. StartDate | date : « MM/dd/yy »}}"
+
+msgid "window."
+msgstr "Fenêtre"
+
+msgid "with"
+msgstr "avec"
+
+msgid "yes"
+msgstr "Oui"
+
+msgid "you want to add"
+msgstr "vous voulez ajouter"
+
+msgid "{{ V10 ? 'Disciplinarian' : 'Assigned Admin'}}"
+msgstr ""
+
+msgid "{{ gradeLevelColumn }}"
+msgstr "{{ gradeLevelColumn }}"
+
+msgid "{{ hiddenParametersLabel }}"
+msgstr "{{ hiddenParametersLabel }}"
+
+msgid "{{ primaryParent.FirstName }}'s Cell Phone: {{ primaryParent.CellPhone }}"
+msgstr "Téléphone cellulaire de {{primaryParent.FirstName}}: {{primaryParent.CellPhone}}"
+
+msgid "{{ primaryParentSpouse.FirstName }}'s Cell Phone: {{ primaryParentSpouse.CellPhone }}"
+msgstr "Téléphone cellulaire de {{primaryParentSpouse.FirstName}}: {{primaryParentSpouse.CellPhone}}"
+
+msgid ""
+"{{DaysPresent |number:'2.2-2'}} of {{TotalDays |number:'2.2-2'}} Days\n"
+"            ({{((DaysPresent/TotalDays)*100)|number:'2.2-2'}} %)"
+msgstr ""
+"{{DaysPresent |number:'2.2-2'}} de {{TotalDays |number:'2.2-2'}} Journées\n"
+"            ({{((DaysPresent/TotalDays)*100)|number:'2.2-2'}} %)"
+
+msgid ""
+"{{DaysPresent |number:'2.2-2'}} of {{TotalDays |number:'2.2-2'}} Days\n"
+"          ({{((DaysPresent/TotalDays)*100)|number:'2.2-2'}} %)"
+msgstr ""
+"{{DaysPresent |number:'2.2-2'}} de {{TotalDays |number:'2.2-2'}} Journées\n"
+"          ({{((DaysPresent/TotalDays)*100)|number:'2.2-2'}} %)"
+
+msgid "{{HT.Id == 8 ? 'Areas' : 'Result'}}"
+msgstr "{{HT.Id == 8 ? 'Zones' : 'Résultat'}}"
+
+msgid "{{HT.Id == 8 ? 'Requested' : 'Scheduled'}}"
+msgstr "{{HT.Id == 8 ? 'Demandé' : 'Prévu'}}"
+
+msgid ""
+"{{HoursPresent |number:'2.2-2'}} of {{TotalHours |number:'2.2-2'}} Hours\n"
+"            ({{((HoursPresent/TotalHours)*100)|number:'2.2-2'}} %)"
+msgstr ""
+"{{HoursPresent |number:'2.2-2'}} de {{TotalHours |number:'2.2-2'}} Heures\n"
+"            ({{((HoursPresent/TotalHours)*100)|number:'2.2-2'}} %)"
+
+msgid ""
+"{{HoursPresent |number:'2.2-2'}} of {{TotalHours |number:'2.2-2'}} Hours\n"
+"          ({{((HoursPresent/TotalHours)*100)|number:'2.2-2'}} %)"
+msgstr ""
+"{{HoursPresent |number:'2.2-2'}} de {{TotalHours |number:'2.2-2'}} Heures\n"
+"          ({{((HoursPresent/TotalHours)*100)|number:'2.2-2'}} %)"
+
+msgid "{{announcement.AnnouncementAttachments && announcement.AnnouncementAttachments.length > 0 ? 'Y' : ''}}"
+msgstr "{{announcement.AnnouncementAttachments && announcement.AnnouncementAttachments.length > 0 ? 'Y' : ''}}"
+
+msgid "{{announcement.Course}}"
+msgstr "{{announcement.Course}}"
+
+msgid "{{announcement.StartDate | date:'MM/dd/yy'}} - {{announcement.Title}}"
+msgstr "{{announcement.StartDate | date:'MM/dd/yy'}} - {{announcement.Title}}"
+
+msgid "{{announcement.Teacher}}"
+msgstr "{{announcement.Teacher}}"
+
+msgid "{{attachment.DocumentName}}"
+msgstr "{{attachment.DocumentName}}"
+
+msgid "{{attachment.FileID == -1 ? 'Add' : 'Edit'}} Attachment"
+msgstr "{{attachment.FileID == -1 ? 'Rajouter' : 'Modifier'}} Attachement"
+
+msgid "{{bodyString}}"
+msgstr "{{bodyString}}"
+
+msgid "{{body}}"
+msgstr "{{body}}"
+
+msgid "{{buttonLabel.toUpperCase()}}"
+msgstr "{{buttonLabel.toUpperCase()}}"
+
+msgid "{{category.StuPortCategoryName}}"
+msgstr "{{category.StuPortCategoryName}}"
+
+msgid "{{citizenShipText}}"
+msgstr "{{citizenShipText}}"
+
+msgid "{{column.name}}"
+msgstr "{{column.name}}"
+
+msgid "{{country.CodeDescription}}"
+msgstr "{{country.CodeDescription}}"
+
+msgid "{{cr.NameDesc}}"
+msgstr "{{cr.NameDesc}}"
+
+msgid "{{currentQuery.QueryName == 'My Defaults' ? 'My Default' : currentQuery.QueryName}}"
+msgstr "{{currentQuery.QueryName == 'My Defaults' ? 'Mon défaut' : currentQuery.QueryName}}"
+
+msgid "{{defaultYear.AYIdentifier}}"
+msgstr "{{defaultYear.AYIdentifier}}"
+
+msgid "{{defaultYear.AYIdentifier}} Balance"
+msgstr "{{defaultYear.AYIdentifier}} solde"
+
+msgid "{{defaultYear.Description}} Balance"
+msgstr "{{defaultYear.Description}} solde"
+
+msgid "{{deleteLabel.toUpperCase()}}"
+msgstr "{{deleteLabel.toUpperCase()}}"
+
+msgid "{{error.fieldName}}"
+msgstr "{{error.fieldName}}"
+
+msgid "{{errorMessage}}"
+msgstr "{{errorMessage}}"
+
+msgid "{{ethnicity.CodeDescription}}"
+msgstr "{{ethnicity.CodeDescription}}"
+
+msgid "{{event.EventTitle}}"
+msgstr "{{event.EventTitle}}"
+
+msgid "{{event.title}}"
+msgstr "{{event.title}}"
+
+msgid "{{fileName ? fileName : 'Drop file to attach, or browse.'}}"
+msgstr "{{fileName ? fileName : 'Drop file to attach, or browse.'}}"
+
+msgid "{{form.ScreenName}}"
+msgstr "{{form.ScreenName}}"
+
+msgid ""
+"{{form.StudentAdded}}\r\n"
+"                        Added"
+msgstr ""
+"{{form.StudentAdded}}\r\n"
+"                        Added"
+
+msgid "{{gender.CodeDescription}}"
+msgstr "{{gender.CodeDescription}}"
+
+msgid "{{getPageTitle()}}"
+msgstr "{{getPageTitle()}}"
+
+msgid "{{gradeLevel.Code}}"
+msgstr "{{gradeLevel.Code}}"
+
+msgid "{{headerString}}"
+msgstr "{{headerString}}"
+
+msgid "{{header}}"
+msgstr "{{header}}"
+
+msgid "{{information && information.ProfileContentId != -1 ? 'Edit' : 'Add'}} Content"
+msgstr "{{information && information.ProfileContentId != -1 ? 'Modifier' : 'Rajouter'}} Contenu"
+
+msgid "{{item}}"
+msgstr "{{item}}"
+
+msgid "{{label}}"
+msgstr "{{label}}"
+
+msgid "{{livesWithOption.CodeDescription}}"
+msgstr "{{livesWithOption.CodeDescription}}"
+
+msgid "{{matchedAddress.ApartmentNumberLastChange}}"
+msgstr "{{matchedAddress.ApartmentNumberLastChange}}"
+
+msgid "{{matchedAddress.ApartmentNumberNew}}"
+msgstr "{{matchedAddress.ApartmentNumberNew}}"
+
+msgid "{{matchedAddress.CityLastChange}}"
+msgstr "{{matchedAddress.CityLastChange}}"
+
+msgid "{{matchedAddress.CityNew}}"
+msgstr "{{matchedAddress.CityNew}}"
+
+msgid "{{matchedAddress.CountryLastChange}}"
+msgstr "{{matchedAddress.CountryLastChange}}"
+
+msgid "{{matchedAddress.CountryNew}}"
+msgstr "{{matchedAddress.CountryNew}}"
+
+msgid "{{matchedAddress.DirectionLastChange}}"
+msgstr "{{matchedAddress.DirectionLastChange}}"
+
+msgid "{{matchedAddress.DirectionNew}}"
+msgstr "{{matchedAddress.DirectionNew}}"
+
+msgid "{{matchedAddress.HouseNumberLastChange}}"
+msgstr "{{matchedAddress.HouseNumberLastChange}}"
+
+msgid "{{matchedAddress.HouseNumberNew}}"
+msgstr "{{matchedAddress.HouseNumberNew}}"
+
+msgid "{{matchedAddress.POBoxLastChange}}"
+msgstr "{{matchedAddress.POBoxLastChange}}"
+
+msgid "{{matchedAddress.POBoxNew}}"
+msgstr "{{matchedAddress.POBoxNew}}"
+
+msgid "{{matchedAddress.StateLastChange}}"
+msgstr "{{matchedAddress.StateLastChange}}"
+
+msgid "{{matchedAddress.StateNew}}"
+msgstr "{{matchedAddress.StateNew}}"
+
+msgid "{{matchedAddress.StreetNameLastChange}}"
+msgstr "{{matchedAddress.StreetNameLastChange}}"
+
+msgid "{{matchedAddress.StreetNameNew}}"
+msgstr "{{matchedAddress.StreetNameNew}}"
+
+msgid "{{matchedAddress.StreetTypeLastChange}}"
+msgstr "{{matchedAddress.StreetTypeLastChange}}"
+
+msgid "{{matchedAddress.StreetTypeNew}}"
+msgstr "{{matchedAddress.StreetTypeNew}}"
+
+msgid "{{matchedAddress.ZipCodeLastChange}} - {{matchedAddress.ZipCode2LastChange}}"
+msgstr "{{matchedAddress.ZipCodeLastChange}} - {{matchedAddress.ZipCode2LastChange}}"
+
+msgid "{{matchedAddress.ZipCodeNew}} -{{matchedAddress.ZipCode2New}}"
+msgstr "{{matchedAddress.ZipCodeNew}} -{{matchedAddress.ZipCode2New}}"
+
+msgid "{{matchingParentAddresses[i] && matchingParentAddresses[i].PrimaryAddress ? 'Primary' : 'Mailing'}}"
+msgstr "{{matchingParentAddresses[i] && matchingParentAddresses[i].PrimaryAddress ? 'Primaire' : 'Envoi postal'}}"
+
+msgid "{{matchingStudentAddresses[i] && matchingStudentAddresses[i].PrimaryAddress ? 'Primary' : 'Mailing'}}"
+msgstr "{{matchingStudentAddresses[i] && matchingStudentAddresses[i].PrimaryAddress ? 'Primaire' : 'Envoi postal'}}"
+
+msgid "{{menu.GroupName}}"
+msgstr "{{menu.GroupName}}"
+
+msgid "{{menuItem.GroupName}}"
+msgstr "{{menuItem.GroupName}}"
+
+msgid "{{message}}"
+msgstr "{{message}}"
+
+msgid "{{newFamilyRegistration ? 'New Family Registration - Step 4 of 5' : 'Add New Student'}}"
+msgstr "{{newFamilyRegistration ? 'Enregistrement de la nouvelle famille - Étape 4 de 5' : 'Ajouter un nouvel étudiant'}}"
+
+msgid ""
+"{{onlineRegistration ? (formPacket.Status ? 'Submitted' : (form.Status ? 'Complete' :\r\n"
+"                        'Incomplete')) : form.Status}}"
+msgstr ""
+
+msgid "{{otherInvolved.CodeDescription}}"
+msgstr "{{otherInvolved.CodeDescription}}"
+
+msgid "{{pageTitle}}"
+msgstr "{{pageTitle}}"
+
+msgid "{{portal.PortalName}}"
+msgstr "{{portal.PortalName}}"
+
+msgid "{{property.Name}}"
+msgstr "{{property.Name}}"
+
+msgid "{{scheduleInfoMessage}}"
+msgstr "{{scheduleInfoMessage}}"
+
+msgid "{{screeningId == 8 ? 'Areas' : 'Result'}}"
+msgstr "{{screeningId == 8 ? 'Zones' : 'Résultat'}}"
+
+msgid "{{screeningId == 8 ? 'Requested' : 'Scheduled'}}"
+msgstr "{{screeningId == 8 ? 'Demandé' : 'Prévu'}}"
+
+msgid "{{sectionNames[i]}}"
+msgstr "{{sectionNames[i]}}"
+
+msgid "{{streetType.Code ? streetType.Code + ' - ' : ''}}{{streetType.CodeDescription}}"
+msgstr "{{streetType.Code ? streetType.Code + ' - ' : ''}}{{streetType.CodeDescription}}"
+
+msgid "{{student.StudentName}}"
+msgstr "{{student.StudentName}}"
+
+msgid "{{student360Year.AYIdentifier}}"
+msgstr "{{student360Year.AYIdentifier}}"
+
+msgid "{{suffix.CodeDescription}}"
+msgstr "{{suffix.CodeDescription}}"
+
+msgid "{{tab1Title()}}"
+msgstr "{{tab1Title()}}"
+
+msgid "{{tab2Title()}}"
+msgstr "{{tab2Title()}}"
+
+msgid "{{title}}"
+msgstr "{{title}}"
+
+msgid "{{topic}}"
+msgstr "{{topic}}"
+
+msgid "{{userManagedPBIS ? 'Additional Information' : 'Intervention Type(s) and Date(s) Related to this Incident'}}"
+msgstr "{{userManagedPBIS ? 'Information additionnelle' : 'Type (s) d'intervention et date (s) associés à cet incident'}}"
+
+msgid "{{v10 == true || userType == '1' ? 'Balance':'Account Balance'}}"
+msgstr "{{v10 == true || userType == '1' ? 'Équilibre':'Solde du compte'}}"
+
+msgid "{{v10 ? 'Balance Owed as of Academic Year ' : 'Total due for Academic Year '}}{{defaultYear.Description}}"
+msgstr "{{v10 ? 'Solde dû à compter de l'année scolaire ' : 'Total dû pour l'année scolaire'}}{{defaultYear.Description}}"
+
+msgid "{{v10 ? 'Balance Owed as of Academic Year ' : 'Total due for Academic Year'}}{{defaultYear.Description}}"
+msgstr "{{v10 ? 'Solde dû à compter de l'année scolaire ' : 'Total dû pour l'année scolaire'}}{{defaultYear.Description}}"
+
+msgid "{{v10 ? 'Balance Owed as of Academic Year ' : 'Total due for Academic Year'}}{{student360Year.Description}}"
+msgstr ""
+
+msgid "{{v10 ? 'School' : 'Site'}}"
+msgstr "{{v10 ? 'École' : 'Site'}}"
+
+msgid "{{warning}}"
+msgstr "{{warning}}"
+
+msgid "ACCOUNT / NEW DEPOSITS"
+msgstr "COMPTE / NOUVEAUX DÉPÔTS"
+
+msgid "All forms are marked complete but have not yet been submitted to the schools."
+msgstr "Tous les formulaires sont marqués comme complets mais n'ont pas encore été soumis aux écoles."
+
+msgid "If you continue without saving, the changes will be lost."
+msgstr "Si vous continuez sans enregistrer, les modifications seront perdues."
+
+msgid "Invalid email address."
+msgstr "Adresse e-mail invalide."
+
+msgid "Invalid email format."
+msgstr "Format d'email invalide."
+
+msgid "Invalid phone number."
+msgstr "Numéro de téléphone invalide."
+
+msgid "Lance Test"
+msgstr "Test de lance"
+
+msgid "No Grading Period"
+msgstr "Pas de période de classement"
+
+msgid "Note: You will not be able to submit forms because you do not have access to all students in this family for whom Online Registration is currently available."
+msgstr "Remarque: vous ne pourrez pas soumettre de formulaire car vous n'avez pas accès à tous les étudiants de cette famille pour lesquels l'inscription en ligne est actuellement disponible."
+
+msgid "Online Registration must be completed for"
+msgstr "L'inscription en ligne doit être complétée pour"
+
+msgid "Required field."
+msgstr "Champs requis."
+
+msgid "Save and Continue"
+msgstr "Sauvegarder et continuer"
+
+msgid "TRANSACTION HISTORY"
+msgstr "HISTORIQUE DES TRANSACTIONS"
+
+msgid "Translation Test"
+msgstr "Test de traduction"
+
+msgid "Travis Test"
+msgstr "Test de Travis"
+
+msgid "Work Email"
+msgstr "Email de travail"
+
+msgid ""
+"and complete\r\n"
+"        this transaction select Proceed to Pay. If not, select Go Back to Previous Screen."
+msgstr ""
+"et complète\r\n"
+"        cette transaction, sélectionnez Procéder au paiement. Sinon, sélectionnez Revenir à l'écran précédent."
+
+msgid "Changing languages may require a re-login."
+msgstr "Changer de langue peut nécessiter une nouvelle connexion."
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "No Schedule Information"
+msgstr "Aucune information sur l'horaire"
+
+msgid "e-Forms"
+msgstr "Formulaires électroniques"
+
+msgid "District"
+msgstr "District"
+
+msgid "Submitted – Awaiting Approval"
+msgstr "Soumis - En attente d'approbation"
+
+msgid "Associate Contact with Student"
+msgstr "Associer le contact avec l'étudiant"
+
+msgid "You do not have permission to view Student Information data for this student"
+msgstr "Vous n'êtes pas autorisé à afficher les données d'informations sur l'étudiant pour cet étudiant"
+
+msgid "DISMISS"
+msgstr "REJETER"
+
+msgid "Your new password has been saved."
+msgstr "Votre nouveau mot de passe a été enregistré."
